@@ -1,0 +1,2551 @@
+year,area_id,area,function,expense_millions
+2008,can-all,Canada — all governments,General public services,97511.0
+2008,can-all,Canada — all governments,Defence,15805.0
+2008,can-all,Canada — all governments,Public order and safety,27167.0
+2008,can-all,Canada — all governments,Economic affairs,46470.0
+2008,can-all,Canada — all governments,Environment,9722.0
+2008,can-all,Canada — all governments,Housing and community,7756.0
+2008,can-all,Canada — all governments,Health,125458.0
+2008,can-all,Canada — all governments,Recreation and culture,14547.0
+2008,can-all,Canada — all governments,Education,72348.0
+2008,can-all,Canada — all governments,Social protection,123892.0
+2009,can-all,Canada — all governments,General public services,97414.0
+2009,can-all,Canada — all governments,Defence,16357.0
+2009,can-all,Canada — all governments,Public order and safety,28915.0
+2009,can-all,Canada — all governments,Economic affairs,49274.0
+2009,can-all,Canada — all governments,Environment,10739.0
+2009,can-all,Canada — all governments,Housing and community,8252.0
+2009,can-all,Canada — all governments,Health,133246.0
+2009,can-all,Canada — all governments,Recreation and culture,14527.0
+2009,can-all,Canada — all governments,Education,76766.0
+2009,can-all,Canada — all governments,Social protection,134802.0
+2010,can-all,Canada — all governments,General public services,105765.0
+2010,can-all,Canada — all governments,Defence,15194.0
+2010,can-all,Canada — all governments,Public order and safety,29569.0
+2010,can-all,Canada — all governments,Economic affairs,51220.0
+2010,can-all,Canada — all governments,Environment,11724.0
+2010,can-all,Canada — all governments,Housing and community,8381.0
+2010,can-all,Canada — all governments,Health,138998.0
+2010,can-all,Canada — all governments,Recreation and culture,14796.0
+2010,can-all,Canada — all governments,Education,80145.0
+2010,can-all,Canada — all governments,Social protection,137155.0
+2011,can-all,Canada — all governments,General public services,106642.0
+2011,can-all,Canada — all governments,Defence,16710.0
+2011,can-all,Canada — all governments,Public order and safety,31243.0
+2011,can-all,Canada — all governments,Economic affairs,52998.0
+2011,can-all,Canada — all governments,Environment,11871.0
+2011,can-all,Canada — all governments,Housing and community,8415.0
+2011,can-all,Canada — all governments,Health,145819.0
+2011,can-all,Canada — all governments,Recreation and culture,15707.0
+2011,can-all,Canada — all governments,Education,83711.0
+2011,can-all,Canada — all governments,Social protection,140713.0
+2012,can-all,Canada — all governments,General public services,104795.0
+2012,can-all,Canada — all governments,Defence,16506.0
+2012,can-all,Canada — all governments,Public order and safety,31460.0
+2012,can-all,Canada — all governments,Economic affairs,53321.0
+2012,can-all,Canada — all governments,Environment,11709.0
+2012,can-all,Canada — all governments,Housing and community,8393.0
+2012,can-all,Canada — all governments,Health,149139.0
+2012,can-all,Canada — all governments,Recreation and culture,16610.0
+2012,can-all,Canada — all governments,Education,85743.0
+2012,can-all,Canada — all governments,Social protection,141348.0
+2013,can-all,Canada — all governments,General public services,104685.0
+2013,can-all,Canada — all governments,Defence,16210.0
+2013,can-all,Canada — all governments,Public order and safety,32633.0
+2013,can-all,Canada — all governments,Economic affairs,52867.0
+2013,can-all,Canada — all governments,Environment,11312.0
+2013,can-all,Canada — all governments,Housing and community,8606.0
+2013,can-all,Canada — all governments,Health,154292.0
+2013,can-all,Canada — all governments,Recreation and culture,16679.0
+2013,can-all,Canada — all governments,Education,88536.0
+2013,can-all,Canada — all governments,Social protection,144774.0
+2014,can-all,Canada — all governments,General public services,104394.0
+2014,can-all,Canada — all governments,Defence,15654.0
+2014,can-all,Canada — all governments,Public order and safety,33609.0
+2014,can-all,Canada — all governments,Economic affairs,53670.0
+2014,can-all,Canada — all governments,Environment,11705.0
+2014,can-all,Canada — all governments,Housing and community,9226.0
+2014,can-all,Canada — all governments,Health,159331.0
+2014,can-all,Canada — all governments,Recreation and culture,16335.0
+2014,can-all,Canada — all governments,Education,90489.0
+2014,can-all,Canada — all governments,Social protection,149281.0
+2015,can-all,Canada — all governments,General public services,106415.0
+2015,can-all,Canada — all governments,Defence,15773.0
+2015,can-all,Canada — all governments,Public order and safety,33814.0
+2015,can-all,Canada — all governments,Economic affairs,53249.0
+2015,can-all,Canada — all governments,Environment,13708.0
+2015,can-all,Canada — all governments,Housing and community,9359.0
+2015,can-all,Canada — all governments,Health,165025.0
+2015,can-all,Canada — all governments,Recreation and culture,17423.0
+2015,can-all,Canada — all governments,Education,91762.0
+2015,can-all,Canada — all governments,Social protection,157582.0
+2016,can-all,Canada — all governments,General public services,107110.0
+2016,can-all,Canada — all governments,Defence,15962.0
+2016,can-all,Canada — all governments,Public order and safety,34703.0
+2016,can-all,Canada — all governments,Economic affairs,54745.0
+2016,can-all,Canada — all governments,Environment,14699.0
+2016,can-all,Canada — all governments,Housing and community,10767.0
+2016,can-all,Canada — all governments,Health,170053.0
+2016,can-all,Canada — all governments,Recreation and culture,17545.0
+2016,can-all,Canada — all governments,Education,94463.0
+2016,can-all,Canada — all governments,Social protection,167464.0
+2017,can-all,Canada — all governments,General public services,113692.0
+2017,can-all,Canada — all governments,Defence,17668.0
+2017,can-all,Canada — all governments,Public order and safety,36344.0
+2017,can-all,Canada — all governments,Economic affairs,57730.0
+2017,can-all,Canada — all governments,Environment,14837.0
+2017,can-all,Canada — all governments,Housing and community,10865.0
+2017,can-all,Canada — all governments,Health,175947.0
+2017,can-all,Canada — all governments,Recreation and culture,18599.0
+2017,can-all,Canada — all governments,Education,101374.0
+2017,can-all,Canada — all governments,Social protection,175456.0
+2018,can-all,Canada — all governments,General public services,121319.0
+2018,can-all,Canada — all governments,Defence,16925.0
+2018,can-all,Canada — all governments,Public order and safety,37614.0
+2018,can-all,Canada — all governments,Economic affairs,67694.0
+2018,can-all,Canada — all governments,Environment,15760.0
+2018,can-all,Canada — all governments,Housing and community,10107.0
+2018,can-all,Canada — all governments,Health,180593.0
+2018,can-all,Canada — all governments,Recreation and culture,19126.0
+2018,can-all,Canada — all governments,Education,106575.0
+2018,can-all,Canada — all governments,Social protection,184106.0
+2019,can-all,Canada — all governments,General public services,128317.0
+2019,can-all,Canada — all governments,Defence,18209.0
+2019,can-all,Canada — all governments,Public order and safety,40517.0
+2019,can-all,Canada — all governments,Economic affairs,76104.0
+2019,can-all,Canada — all governments,Environment,16424.0
+2019,can-all,Canada — all governments,Housing and community,10838.0
+2019,can-all,Canada — all governments,Health,188186.0
+2019,can-all,Canada — all governments,Recreation and culture,19804.0
+2019,can-all,Canada — all governments,Education,109645.0
+2019,can-all,Canada — all governments,Social protection,191659.0
+2020,can-all,Canada — all governments,General public services,125349.0
+2020,can-all,Canada — all governments,Defence,21590.0
+2020,can-all,Canada — all governments,Public order and safety,40543.0
+2020,can-all,Canada — all governments,Economic affairs,166661.0
+2020,can-all,Canada — all governments,Environment,21237.0
+2020,can-all,Canada — all governments,Housing and community,11029.0
+2020,can-all,Canada — all governments,Health,212767.0
+2020,can-all,Canada — all governments,Recreation and culture,19763.0
+2020,can-all,Canada — all governments,Education,111552.0
+2020,can-all,Canada — all governments,Social protection,318780.0
+2021,can-all,Canada — all governments,General public services,127825.0
+2021,can-all,Canada — all governments,Defence,20021.0
+2021,can-all,Canada — all governments,Public order and safety,44958.0
+2021,can-all,Canada — all governments,Economic affairs,123306.0
+2021,can-all,Canada — all governments,Environment,21317.0
+2021,can-all,Canada — all governments,Housing and community,11959.0
+2021,can-all,Canada — all governments,Health,230612.0
+2021,can-all,Canada — all governments,Recreation and culture,20761.0
+2021,can-all,Canada — all governments,Education,117324.0
+2021,can-all,Canada — all governments,Social protection,253034.0
+2022,can-all,Canada — all governments,General public services,144087.0
+2022,can-all,Canada — all governments,Defence,22379.0
+2022,can-all,Canada — all governments,Public order and safety,47045.0
+2022,can-all,Canada — all governments,Economic affairs,97949.0
+2022,can-all,Canada — all governments,Environment,26287.0
+2022,can-all,Canada — all governments,Housing and community,16063.0
+2022,can-all,Canada — all governments,Health,239814.0
+2022,can-all,Canada — all governments,Recreation and culture,22710.0
+2022,can-all,Canada — all governments,Education,124953.0
+2022,can-all,Canada — all governments,Social protection,242961.0
+2023,can-all,Canada — all governments,General public services,158092.0
+2023,can-all,Canada — all governments,Defence,24079.0
+2023,can-all,Canada — all governments,Public order and safety,52422.0
+2023,can-all,Canada — all governments,Economic affairs,115470.0
+2023,can-all,Canada — all governments,Environment,32578.0
+2023,can-all,Canada — all governments,Housing and community,16153.0
+2023,can-all,Canada — all governments,Health,253531.0
+2023,can-all,Canada — all governments,Recreation and culture,24644.0
+2023,can-all,Canada — all governments,Education,133003.0
+2023,can-all,Canada — all governments,Social protection,292424.0
+2024,can-all,Canada — all governments,General public services,172380.0
+2024,can-all,Canada — all governments,Defence,27652.0
+2024,can-all,Canada — all governments,Public order and safety,54857.0
+2024,can-all,Canada — all governments,Economic affairs,107754.0
+2024,can-all,Canada — all governments,Environment,39363.0
+2024,can-all,Canada — all governments,Housing and community,17671.0
+2024,can-all,Canada — all governments,Health,269116.0
+2024,can-all,Canada — all governments,Recreation and culture,24985.0
+2024,can-all,Canada — all governments,Education,140187.0
+2024,can-all,Canada — all governments,Social protection,283133.0
+2008,can-ptl,Canada — provincial and local,General public services,46647.0
+2008,can-ptl,Canada — provincial and local,Defence,0.0
+2008,can-ptl,Canada — provincial and local,Public order and safety,19867.0
+2008,can-ptl,Canada — provincial and local,Economic affairs,35741.0
+2008,can-ptl,Canada — provincial and local,Environment,7846.0
+2008,can-ptl,Canada — provincial and local,Housing and community,6195.0
+2008,can-ptl,Canada — provincial and local,Health,120475.0
+2008,can-ptl,Canada — provincial and local,Recreation and culture,10216.0
+2008,can-ptl,Canada — provincial and local,Education,69578.0
+2008,can-ptl,Canada — provincial and local,Social protection,52984.0
+2009,can-ptl,Canada — provincial and local,General public services,47806.0
+2009,can-ptl,Canada — provincial and local,Defence,0.0
+2009,can-ptl,Canada — provincial and local,Public order and safety,20812.0
+2009,can-ptl,Canada — provincial and local,Economic affairs,37694.0
+2009,can-ptl,Canada — provincial and local,Environment,8615.0
+2009,can-ptl,Canada — provincial and local,Housing and community,6550.0
+2009,can-ptl,Canada — provincial and local,Health,127787.0
+2009,can-ptl,Canada — provincial and local,Recreation and culture,10207.0
+2009,can-ptl,Canada — provincial and local,Education,73309.0
+2009,can-ptl,Canada — provincial and local,Social protection,56259.0
+2010,can-ptl,Canada — provincial and local,General public services,54278.0
+2010,can-ptl,Canada — provincial and local,Defence,0.0
+2010,can-ptl,Canada — provincial and local,Public order and safety,21526.0
+2010,can-ptl,Canada — provincial and local,Economic affairs,39481.0
+2010,can-ptl,Canada — provincial and local,Environment,9047.0
+2010,can-ptl,Canada — provincial and local,Housing and community,6795.0
+2010,can-ptl,Canada — provincial and local,Health,133771.0
+2010,can-ptl,Canada — provincial and local,Recreation and culture,10284.0
+2010,can-ptl,Canada — provincial and local,Education,76621.0
+2010,can-ptl,Canada — provincial and local,Social protection,58668.0
+2011,can-ptl,Canada — provincial and local,General public services,57036.0
+2011,can-ptl,Canada — provincial and local,Defence,0.0
+2011,can-ptl,Canada — provincial and local,Public order and safety,22845.0
+2011,can-ptl,Canada — provincial and local,Economic affairs,41323.0
+2011,can-ptl,Canada — provincial and local,Environment,9154.0
+2011,can-ptl,Canada — provincial and local,Housing and community,7093.0
+2011,can-ptl,Canada — provincial and local,Health,140519.0
+2011,can-ptl,Canada — provincial and local,Recreation and culture,10906.0
+2011,can-ptl,Canada — provincial and local,Education,80226.0
+2011,can-ptl,Canada — provincial and local,Social protection,61075.0
+2012,can-ptl,Canada — provincial and local,General public services,54502.0
+2012,can-ptl,Canada — provincial and local,Defence,0.0
+2012,can-ptl,Canada — provincial and local,Public order and safety,22984.0
+2012,can-ptl,Canada — provincial and local,Economic affairs,42169.0
+2012,can-ptl,Canada — provincial and local,Environment,9574.0
+2012,can-ptl,Canada — provincial and local,Housing and community,7041.0
+2012,can-ptl,Canada — provincial and local,Health,143994.0
+2012,can-ptl,Canada — provincial and local,Recreation and culture,11830.0
+2012,can-ptl,Canada — provincial and local,Education,82128.0
+2012,can-ptl,Canada — provincial and local,Social protection,59715.0
+2013,can-ptl,Canada — provincial and local,General public services,55877.0
+2013,can-ptl,Canada — provincial and local,Defence,0.0
+2013,can-ptl,Canada — provincial and local,Public order and safety,23805.0
+2013,can-ptl,Canada — provincial and local,Economic affairs,42403.0
+2013,can-ptl,Canada — provincial and local,Environment,9418.0
+2013,can-ptl,Canada — provincial and local,Housing and community,7265.0
+2013,can-ptl,Canada — provincial and local,Health,148962.0
+2013,can-ptl,Canada — provincial and local,Recreation and culture,11841.0
+2013,can-ptl,Canada — provincial and local,Education,84859.0
+2013,can-ptl,Canada — provincial and local,Social protection,61089.0
+2014,can-ptl,Canada — provincial and local,General public services,56565.0
+2014,can-ptl,Canada — provincial and local,Defence,0.0
+2014,can-ptl,Canada — provincial and local,Public order and safety,24773.0
+2014,can-ptl,Canada — provincial and local,Economic affairs,44227.0
+2014,can-ptl,Canada — provincial and local,Environment,9808.0
+2014,can-ptl,Canada — provincial and local,Housing and community,7552.0
+2014,can-ptl,Canada — provincial and local,Health,154141.0
+2014,can-ptl,Canada — provincial and local,Recreation and culture,11825.0
+2014,can-ptl,Canada — provincial and local,Education,86817.0
+2014,can-ptl,Canada — provincial and local,Social protection,61383.0
+2015,can-ptl,Canada — provincial and local,General public services,58617.0
+2015,can-ptl,Canada — provincial and local,Defence,0.0
+2015,can-ptl,Canada — provincial and local,Public order and safety,25271.0
+2015,can-ptl,Canada — provincial and local,Economic affairs,44519.0
+2015,can-ptl,Canada — provincial and local,Environment,10298.0
+2015,can-ptl,Canada — provincial and local,Housing and community,7781.0
+2015,can-ptl,Canada — provincial and local,Health,159764.0
+2015,can-ptl,Canada — provincial and local,Recreation and culture,13173.0
+2015,can-ptl,Canada — provincial and local,Education,88021.0
+2015,can-ptl,Canada — provincial and local,Social protection,62458.0
+2016,can-ptl,Canada — provincial and local,General public services,62775.0
+2016,can-ptl,Canada — provincial and local,Defence,0.0
+2016,can-ptl,Canada — provincial and local,Public order and safety,25971.0
+2016,can-ptl,Canada — provincial and local,Economic affairs,45453.0
+2016,can-ptl,Canada — provincial and local,Environment,11261.0
+2016,can-ptl,Canada — provincial and local,Housing and community,8320.0
+2016,can-ptl,Canada — provincial and local,Health,164465.0
+2016,can-ptl,Canada — provincial and local,Recreation and culture,12783.0
+2016,can-ptl,Canada — provincial and local,Education,89901.0
+2016,can-ptl,Canada — provincial and local,Social protection,63865.0
+2017,can-ptl,Canada — provincial and local,General public services,66080.0
+2017,can-ptl,Canada — provincial and local,Defence,0.0
+2017,can-ptl,Canada — provincial and local,Public order and safety,26967.0
+2017,can-ptl,Canada — provincial and local,Economic affairs,47650.0
+2017,can-ptl,Canada — provincial and local,Environment,10991.0
+2017,can-ptl,Canada — provincial and local,Housing and community,7983.0
+2017,can-ptl,Canada — provincial and local,Health,169742.0
+2017,can-ptl,Canada — provincial and local,Recreation and culture,13500.0
+2017,can-ptl,Canada — provincial and local,Education,96111.0
+2017,can-ptl,Canada — provincial and local,Social protection,67374.0
+2018,can-ptl,Canada — provincial and local,General public services,69574.0
+2018,can-ptl,Canada — provincial and local,Defence,0.0
+2018,can-ptl,Canada — provincial and local,Public order and safety,27397.0
+2018,can-ptl,Canada — provincial and local,Economic affairs,54814.0
+2018,can-ptl,Canada — provincial and local,Environment,11649.0
+2018,can-ptl,Canada — provincial and local,Housing and community,8352.0
+2018,can-ptl,Canada — provincial and local,Health,175332.0
+2018,can-ptl,Canada — provincial and local,Recreation and culture,14049.0
+2018,can-ptl,Canada — provincial and local,Education,100057.0
+2018,can-ptl,Canada — provincial and local,Social protection,71917.0
+2019,can-ptl,Canada — provincial and local,General public services,73263.0
+2019,can-ptl,Canada — provincial and local,Defence,0.0
+2019,can-ptl,Canada — provincial and local,Public order and safety,28953.0
+2019,can-ptl,Canada — provincial and local,Economic affairs,56983.0
+2019,can-ptl,Canada — provincial and local,Environment,11784.0
+2019,can-ptl,Canada — provincial and local,Housing and community,8799.0
+2019,can-ptl,Canada — provincial and local,Health,182812.0
+2019,can-ptl,Canada — provincial and local,Recreation and culture,14472.0
+2019,can-ptl,Canada — provincial and local,Education,102531.0
+2019,can-ptl,Canada — provincial and local,Social protection,75496.0
+2020,can-ptl,Canada — provincial and local,General public services,72340.0
+2020,can-ptl,Canada — provincial and local,Defence,0.0
+2020,can-ptl,Canada — provincial and local,Public order and safety,29336.0
+2020,can-ptl,Canada — provincial and local,Economic affairs,64622.0
+2020,can-ptl,Canada — provincial and local,Environment,11855.0
+2020,can-ptl,Canada — provincial and local,Housing and community,8593.0
+2020,can-ptl,Canada — provincial and local,Health,204869.0
+2020,can-ptl,Canada — provincial and local,Recreation and culture,14247.0
+2020,can-ptl,Canada — provincial and local,Education,102942.0
+2020,can-ptl,Canada — provincial and local,Social protection,82457.0
+2021,can-ptl,Canada — provincial and local,General public services,74936.0
+2021,can-ptl,Canada — provincial and local,Defence,0.0
+2021,can-ptl,Canada — provincial and local,Public order and safety,31079.0
+2021,can-ptl,Canada — provincial and local,Economic affairs,75822.0
+2021,can-ptl,Canada — provincial and local,Environment,12514.0
+2021,can-ptl,Canada — provincial and local,Housing and community,9115.0
+2021,can-ptl,Canada — provincial and local,Health,215925.0
+2021,can-ptl,Canada — provincial and local,Recreation and culture,14725.0
+2021,can-ptl,Canada — provincial and local,Education,108072.0
+2021,can-ptl,Canada — provincial and local,Social protection,89590.0
+2022,can-ptl,Canada — provincial and local,General public services,80064.0
+2022,can-ptl,Canada — provincial and local,Defence,0.0
+2022,can-ptl,Canada — provincial and local,Public order and safety,33845.0
+2022,can-ptl,Canada — provincial and local,Economic affairs,71639.0
+2022,can-ptl,Canada — provincial and local,Environment,13449.0
+2022,can-ptl,Canada — provincial and local,Housing and community,10597.0
+2022,can-ptl,Canada — provincial and local,Health,227360.0
+2022,can-ptl,Canada — provincial and local,Recreation and culture,16379.0
+2022,can-ptl,Canada — provincial and local,Education,115465.0
+2022,can-ptl,Canada — provincial and local,Social protection,98258.0
+2023,can-ptl,Canada — provincial and local,General public services,83019.0
+2023,can-ptl,Canada — provincial and local,Defence,0.0
+2023,can-ptl,Canada — provincial and local,Public order and safety,37544.0
+2023,can-ptl,Canada — provincial and local,Economic affairs,77955.0
+2023,can-ptl,Canada — provincial and local,Environment,15693.0
+2023,can-ptl,Canada — provincial and local,Housing and community,11499.0
+2023,can-ptl,Canada — provincial and local,Health,241858.0
+2023,can-ptl,Canada — provincial and local,Recreation and culture,18252.0
+2023,can-ptl,Canada — provincial and local,Education,124031.0
+2023,can-ptl,Canada — provincial and local,Social protection,105559.0
+2024,can-ptl,Canada — provincial and local,General public services,89801.0
+2024,can-ptl,Canada — provincial and local,Defence,0.0
+2024,can-ptl,Canada — provincial and local,Public order and safety,38823.0
+2024,can-ptl,Canada — provincial and local,Economic affairs,81759.0
+2024,can-ptl,Canada — provincial and local,Environment,15923.0
+2024,can-ptl,Canada — provincial and local,Housing and community,11680.0
+2024,can-ptl,Canada — provincial and local,Health,258893.0
+2024,can-ptl,Canada — provincial and local,Recreation and culture,18561.0
+2024,can-ptl,Canada — provincial and local,Education,130741.0
+2024,can-ptl,Canada — provincial and local,Social protection,111552.0
+2008,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,General public services,1204.0
+2008,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Defence,0.0
+2008,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Public order and safety,251.0
+2008,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Economic affairs,652.0
+2008,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Environment,74.0
+2008,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Housing and community,82.0
+2008,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Health,2213.0
+2008,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Recreation and culture,94.0
+2008,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Education,1357.0
+2008,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Social protection,535.0
+2009,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,General public services,1430.0
+2009,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Defence,0.0
+2009,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Public order and safety,278.0
+2009,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Economic affairs,809.0
+2009,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Environment,98.0
+2009,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Housing and community,89.0
+2009,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Health,2456.0
+2009,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Recreation and culture,113.0
+2009,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Education,1485.0
+2009,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Social protection,571.0
+2010,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,General public services,1465.0
+2010,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Defence,0.0
+2010,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Public order and safety,279.0
+2010,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Economic affairs,822.0
+2010,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Environment,100.0
+2010,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Housing and community,94.0
+2010,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Health,2674.0
+2010,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Recreation and culture,117.0
+2010,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Education,1544.0
+2010,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Social protection,720.0
+2011,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,General public services,1446.0
+2011,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Defence,0.0
+2011,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Public order and safety,300.0
+2011,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Economic affairs,849.0
+2011,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Environment,100.0
+2011,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Housing and community,95.0
+2011,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Health,2938.0
+2011,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Recreation and culture,119.0
+2011,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Education,1560.0
+2011,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Social protection,689.0
+2012,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,General public services,1625.0
+2012,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Defence,0.0
+2012,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Public order and safety,307.0
+2012,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Economic affairs,730.0
+2012,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Environment,96.0
+2012,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Housing and community,101.0
+2012,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Health,2859.0
+2012,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Recreation and culture,114.0
+2012,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Education,1550.0
+2012,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Social protection,706.0
+2013,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,General public services,1597.0
+2013,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Defence,0.0
+2013,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Public order and safety,309.0
+2013,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Economic affairs,727.0
+2013,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Environment,100.0
+2013,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Housing and community,109.0
+2013,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Health,2899.0
+2013,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Recreation and culture,122.0
+2013,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Education,1597.0
+2013,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Social protection,696.0
+2014,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,General public services,1395.0
+2014,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Defence,0.0
+2014,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Public order and safety,320.0
+2014,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Economic affairs,777.0
+2014,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Environment,105.0
+2014,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Housing and community,108.0
+2014,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Health,3037.0
+2014,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Recreation and culture,127.0
+2014,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Education,1580.0
+2014,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Social protection,691.0
+2015,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,General public services,1554.0
+2015,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Defence,0.0
+2015,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Public order and safety,328.0
+2015,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Economic affairs,793.0
+2015,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Environment,113.0
+2015,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Housing and community,111.0
+2015,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Health,3078.0
+2015,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Recreation and culture,130.0
+2015,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Education,1507.0
+2015,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Social protection,714.0
+2016,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,General public services,1732.0
+2016,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Defence,0.0
+2016,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Public order and safety,337.0
+2016,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Economic affairs,735.0
+2016,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Environment,104.0
+2016,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Housing and community,110.0
+2016,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Health,3124.0
+2016,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Recreation and culture,116.0
+2016,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Education,1653.0
+2016,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Social protection,719.0
+2017,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,General public services,1635.0
+2017,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Defence,0.0
+2017,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Public order and safety,362.0
+2017,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Economic affairs,776.0
+2017,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Environment,100.0
+2017,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Housing and community,107.0
+2017,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Health,3171.0
+2017,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Recreation and culture,123.0
+2017,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Education,1505.0
+2017,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Social protection,751.0
+2018,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,General public services,1662.0
+2018,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Defence,0.0
+2018,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Public order and safety,346.0
+2018,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Economic affairs,733.0
+2018,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Environment,95.0
+2018,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Housing and community,110.0
+2018,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Health,3315.0
+2018,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Recreation and culture,120.0
+2018,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Education,1483.0
+2018,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Social protection,706.0
+2019,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,General public services,1785.0
+2019,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Defence,0.0
+2019,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Public order and safety,334.0
+2019,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Economic affairs,700.0
+2019,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Environment,97.0
+2019,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Housing and community,109.0
+2019,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Health,3331.0
+2019,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Recreation and culture,114.0
+2019,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Education,1468.0
+2019,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Social protection,723.0
+2020,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,General public services,1815.0
+2020,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Defence,0.0
+2020,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Public order and safety,344.0
+2020,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Economic affairs,778.0
+2020,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Environment,97.0
+2020,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Housing and community,122.0
+2020,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Health,3521.0
+2020,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Recreation and culture,129.0
+2020,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Education,1518.0
+2020,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Social protection,690.0
+2021,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,General public services,1576.0
+2021,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Defence,0.0
+2021,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Public order and safety,348.0
+2021,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Economic affairs,909.0
+2021,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Environment,114.0
+2021,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Housing and community,104.0
+2021,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Health,3566.0
+2021,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Recreation and culture,137.0
+2021,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Education,1491.0
+2021,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Social protection,696.0
+2022,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,General public services,1828.0
+2022,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Defence,0.0
+2022,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Public order and safety,410.0
+2022,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Economic affairs,1199.0
+2022,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Environment,131.0
+2022,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Housing and community,105.0
+2022,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Health,3868.0
+2022,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Recreation and culture,148.0
+2022,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Education,1648.0
+2022,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Social protection,959.0
+2023,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,General public services,1934.0
+2023,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Defence,0.0
+2023,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Public order and safety,433.0
+2023,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Economic affairs,885.0
+2023,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Environment,151.0
+2023,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Housing and community,117.0
+2023,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Health,4057.0
+2023,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Recreation and culture,151.0
+2023,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Education,1757.0
+2023,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Social protection,807.0
+2024,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,General public services,1957.0
+2024,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Defence,0.0
+2024,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Public order and safety,446.0
+2024,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Economic affairs,905.0
+2024,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Environment,154.0
+2024,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Housing and community,122.0
+2024,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Health,4410.0
+2024,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Recreation and culture,167.0
+2024,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Education,1798.0
+2024,Newfoundland and Labrador,Newfoundland and Labrador — provincial and local,Social protection,781.0
+2008,Prince Edward Island,Prince Edward Island — provincial and local,General public services,235.0
+2008,Prince Edward Island,Prince Edward Island — provincial and local,Defence,0.0
+2008,Prince Edward Island,Prince Edward Island — provincial and local,Public order and safety,55.0
+2008,Prince Edward Island,Prince Edward Island — provincial and local,Economic affairs,262.0
+2008,Prince Edward Island,Prince Edward Island — provincial and local,Environment,36.0
+2008,Prince Edward Island,Prince Edward Island — provincial and local,Housing and community,17.0
+2008,Prince Edward Island,Prince Edward Island — provincial and local,Health,435.0
+2008,Prince Edward Island,Prince Edward Island — provincial and local,Recreation and culture,35.0
+2008,Prince Edward Island,Prince Edward Island — provincial and local,Education,336.0
+2008,Prince Edward Island,Prince Edward Island — provincial and local,Social protection,117.0
+2009,Prince Edward Island,Prince Edward Island — provincial and local,General public services,265.0
+2009,Prince Edward Island,Prince Edward Island — provincial and local,Defence,0.0
+2009,Prince Edward Island,Prince Edward Island — provincial and local,Public order and safety,58.0
+2009,Prince Edward Island,Prince Edward Island — provincial and local,Economic affairs,315.0
+2009,Prince Edward Island,Prince Edward Island — provincial and local,Environment,35.0
+2009,Prince Edward Island,Prince Edward Island — provincial and local,Housing and community,21.0
+2009,Prince Edward Island,Prince Edward Island — provincial and local,Health,480.0
+2009,Prince Edward Island,Prince Edward Island — provincial and local,Recreation and culture,33.0
+2009,Prince Edward Island,Prince Edward Island — provincial and local,Education,357.0
+2009,Prince Edward Island,Prince Edward Island — provincial and local,Social protection,133.0
+2010,Prince Edward Island,Prince Edward Island — provincial and local,General public services,239.0
+2010,Prince Edward Island,Prince Edward Island — provincial and local,Defence,0.0
+2010,Prince Edward Island,Prince Edward Island — provincial and local,Public order and safety,61.0
+2010,Prince Edward Island,Prince Edward Island — provincial and local,Economic affairs,250.0
+2010,Prince Edward Island,Prince Edward Island — provincial and local,Environment,35.0
+2010,Prince Edward Island,Prince Edward Island — provincial and local,Housing and community,18.0
+2010,Prince Edward Island,Prince Edward Island — provincial and local,Health,536.0
+2010,Prince Edward Island,Prince Edward Island — provincial and local,Recreation and culture,33.0
+2010,Prince Edward Island,Prince Edward Island — provincial and local,Education,367.0
+2010,Prince Edward Island,Prince Edward Island — provincial and local,Social protection,142.0
+2011,Prince Edward Island,Prince Edward Island — provincial and local,General public services,259.0
+2011,Prince Edward Island,Prince Edward Island — provincial and local,Defence,0.0
+2011,Prince Edward Island,Prince Edward Island — provincial and local,Public order and safety,63.0
+2011,Prince Edward Island,Prince Edward Island — provincial and local,Economic affairs,239.0
+2011,Prince Edward Island,Prince Edward Island — provincial and local,Environment,32.0
+2011,Prince Edward Island,Prince Edward Island — provincial and local,Housing and community,20.0
+2011,Prince Edward Island,Prince Edward Island — provincial and local,Health,558.0
+2011,Prince Edward Island,Prince Edward Island — provincial and local,Recreation and culture,29.0
+2011,Prince Edward Island,Prince Edward Island — provincial and local,Education,393.0
+2011,Prince Edward Island,Prince Edward Island — provincial and local,Social protection,148.0
+2012,Prince Edward Island,Prince Edward Island — provincial and local,General public services,267.0
+2012,Prince Edward Island,Prince Edward Island — provincial and local,Defence,0.0
+2012,Prince Edward Island,Prince Edward Island — provincial and local,Public order and safety,68.0
+2012,Prince Edward Island,Prince Edward Island — provincial and local,Economic affairs,228.0
+2012,Prince Edward Island,Prince Edward Island — provincial and local,Environment,32.0
+2012,Prince Edward Island,Prince Edward Island — provincial and local,Housing and community,17.0
+2012,Prince Edward Island,Prince Edward Island — provincial and local,Health,579.0
+2012,Prince Edward Island,Prince Edward Island — provincial and local,Recreation and culture,31.0
+2012,Prince Edward Island,Prince Edward Island — provincial and local,Education,358.0
+2012,Prince Edward Island,Prince Edward Island — provincial and local,Social protection,143.0
+2013,Prince Edward Island,Prince Edward Island — provincial and local,General public services,267.0
+2013,Prince Edward Island,Prince Edward Island — provincial and local,Defence,0.0
+2013,Prince Edward Island,Prince Edward Island — provincial and local,Public order and safety,67.0
+2013,Prince Edward Island,Prince Edward Island — provincial and local,Economic affairs,215.0
+2013,Prince Edward Island,Prince Edward Island — provincial and local,Environment,33.0
+2013,Prince Edward Island,Prince Edward Island — provincial and local,Housing and community,18.0
+2013,Prince Edward Island,Prince Edward Island — provincial and local,Health,606.0
+2013,Prince Edward Island,Prince Edward Island — provincial and local,Recreation and culture,40.0
+2013,Prince Edward Island,Prince Edward Island — provincial and local,Education,399.0
+2013,Prince Edward Island,Prince Edward Island — provincial and local,Social protection,158.0
+2014,Prince Edward Island,Prince Edward Island — provincial and local,General public services,272.0
+2014,Prince Edward Island,Prince Edward Island — provincial and local,Defence,0.0
+2014,Prince Edward Island,Prince Edward Island — provincial and local,Public order and safety,68.0
+2014,Prince Edward Island,Prince Edward Island — provincial and local,Economic affairs,219.0
+2014,Prince Edward Island,Prince Edward Island — provincial and local,Environment,32.0
+2014,Prince Edward Island,Prince Edward Island — provincial and local,Housing and community,19.0
+2014,Prince Edward Island,Prince Edward Island — provincial and local,Health,624.0
+2014,Prince Edward Island,Prince Edward Island — provincial and local,Recreation and culture,31.0
+2014,Prince Edward Island,Prince Edward Island — provincial and local,Education,384.0
+2014,Prince Edward Island,Prince Edward Island — provincial and local,Social protection,156.0
+2015,Prince Edward Island,Prince Edward Island — provincial and local,General public services,275.0
+2015,Prince Edward Island,Prince Edward Island — provincial and local,Defence,0.0
+2015,Prince Edward Island,Prince Edward Island — provincial and local,Public order and safety,72.0
+2015,Prince Edward Island,Prince Edward Island — provincial and local,Economic affairs,233.0
+2015,Prince Edward Island,Prince Edward Island — provincial and local,Environment,33.0
+2015,Prince Edward Island,Prince Edward Island — provincial and local,Housing and community,21.0
+2015,Prince Edward Island,Prince Edward Island — provincial and local,Health,652.0
+2015,Prince Edward Island,Prince Edward Island — provincial and local,Recreation and culture,27.0
+2015,Prince Edward Island,Prince Edward Island — provincial and local,Education,402.0
+2015,Prince Edward Island,Prince Edward Island — provincial and local,Social protection,158.0
+2016,Prince Edward Island,Prince Edward Island — provincial and local,General public services,270.0
+2016,Prince Edward Island,Prince Edward Island — provincial and local,Defence,0.0
+2016,Prince Edward Island,Prince Edward Island — provincial and local,Public order and safety,74.0
+2016,Prince Edward Island,Prince Edward Island — provincial and local,Economic affairs,242.0
+2016,Prince Edward Island,Prince Edward Island — provincial and local,Environment,34.0
+2016,Prince Edward Island,Prince Edward Island — provincial and local,Housing and community,21.0
+2016,Prince Edward Island,Prince Edward Island — provincial and local,Health,669.0
+2016,Prince Edward Island,Prince Edward Island — provincial and local,Recreation and culture,28.0
+2016,Prince Edward Island,Prince Edward Island — provincial and local,Education,417.0
+2016,Prince Edward Island,Prince Edward Island — provincial and local,Social protection,159.0
+2017,Prince Edward Island,Prince Edward Island — provincial and local,General public services,270.0
+2017,Prince Edward Island,Prince Edward Island — provincial and local,Defence,0.0
+2017,Prince Edward Island,Prince Edward Island — provincial and local,Public order and safety,77.0
+2017,Prince Edward Island,Prince Edward Island — provincial and local,Economic affairs,269.0
+2017,Prince Edward Island,Prince Edward Island — provincial and local,Environment,35.0
+2017,Prince Edward Island,Prince Edward Island — provincial and local,Housing and community,23.0
+2017,Prince Edward Island,Prince Edward Island — provincial and local,Health,697.0
+2017,Prince Edward Island,Prince Edward Island — provincial and local,Recreation and culture,28.0
+2017,Prince Edward Island,Prince Edward Island — provincial and local,Education,418.0
+2017,Prince Edward Island,Prince Edward Island — provincial and local,Social protection,161.0
+2018,Prince Edward Island,Prince Edward Island — provincial and local,General public services,276.0
+2018,Prince Edward Island,Prince Edward Island — provincial and local,Defence,0.0
+2018,Prince Edward Island,Prince Edward Island — provincial and local,Public order and safety,79.0
+2018,Prince Edward Island,Prince Edward Island — provincial and local,Economic affairs,295.0
+2018,Prince Edward Island,Prince Edward Island — provincial and local,Environment,55.0
+2018,Prince Edward Island,Prince Edward Island — provincial and local,Housing and community,23.0
+2018,Prince Edward Island,Prince Edward Island — provincial and local,Health,715.0
+2018,Prince Edward Island,Prince Edward Island — provincial and local,Recreation and culture,30.0
+2018,Prince Edward Island,Prince Edward Island — provincial and local,Education,457.0
+2018,Prince Edward Island,Prince Edward Island — provincial and local,Social protection,181.0
+2019,Prince Edward Island,Prince Edward Island — provincial and local,General public services,306.0
+2019,Prince Edward Island,Prince Edward Island — provincial and local,Defence,0.0
+2019,Prince Edward Island,Prince Edward Island — provincial and local,Public order and safety,80.0
+2019,Prince Edward Island,Prince Edward Island — provincial and local,Economic affairs,297.0
+2019,Prince Edward Island,Prince Edward Island — provincial and local,Environment,69.0
+2019,Prince Edward Island,Prince Edward Island — provincial and local,Housing and community,19.0
+2019,Prince Edward Island,Prince Edward Island — provincial and local,Health,756.0
+2019,Prince Edward Island,Prince Edward Island — provincial and local,Recreation and culture,28.0
+2019,Prince Edward Island,Prince Edward Island — provincial and local,Education,485.0
+2019,Prince Edward Island,Prince Edward Island — provincial and local,Social protection,216.0
+2020,Prince Edward Island,Prince Edward Island — provincial and local,General public services,401.0
+2020,Prince Edward Island,Prince Edward Island — provincial and local,Defence,0.0
+2020,Prince Edward Island,Prince Edward Island — provincial and local,Public order and safety,88.0
+2020,Prince Edward Island,Prince Edward Island — provincial and local,Economic affairs,299.0
+2020,Prince Edward Island,Prince Edward Island — provincial and local,Environment,66.0
+2020,Prince Edward Island,Prince Edward Island — provincial and local,Housing and community,17.0
+2020,Prince Edward Island,Prince Edward Island — provincial and local,Health,808.0
+2020,Prince Edward Island,Prince Edward Island — provincial and local,Recreation and culture,28.0
+2020,Prince Edward Island,Prince Edward Island — provincial and local,Education,488.0
+2020,Prince Edward Island,Prince Edward Island — provincial and local,Social protection,224.0
+2021,Prince Edward Island,Prince Edward Island — provincial and local,General public services,410.0
+2021,Prince Edward Island,Prince Edward Island — provincial and local,Defence,0.0
+2021,Prince Edward Island,Prince Edward Island — provincial and local,Public order and safety,89.0
+2021,Prince Edward Island,Prince Edward Island — provincial and local,Economic affairs,303.0
+2021,Prince Edward Island,Prince Edward Island — provincial and local,Environment,59.0
+2021,Prince Edward Island,Prince Edward Island — provincial and local,Housing and community,22.0
+2021,Prince Edward Island,Prince Edward Island — provincial and local,Health,871.0
+2021,Prince Edward Island,Prince Edward Island — provincial and local,Recreation and culture,41.0
+2021,Prince Edward Island,Prince Edward Island — provincial and local,Education,525.0
+2021,Prince Edward Island,Prince Edward Island — provincial and local,Social protection,249.0
+2022,Prince Edward Island,Prince Edward Island — provincial and local,General public services,347.0
+2022,Prince Edward Island,Prince Edward Island — provincial and local,Defence,0.0
+2022,Prince Edward Island,Prince Edward Island — provincial and local,Public order and safety,125.0
+2022,Prince Edward Island,Prince Edward Island — provincial and local,Economic affairs,399.0
+2022,Prince Edward Island,Prince Edward Island — provincial and local,Environment,81.0
+2022,Prince Edward Island,Prince Edward Island — provincial and local,Housing and community,50.0
+2022,Prince Edward Island,Prince Edward Island — provincial and local,Health,924.0
+2022,Prince Edward Island,Prince Edward Island — provincial and local,Recreation and culture,38.0
+2022,Prince Edward Island,Prince Edward Island — provincial and local,Education,561.0
+2022,Prince Edward Island,Prince Edward Island — provincial and local,Social protection,378.0
+2023,Prince Edward Island,Prince Edward Island — provincial and local,General public services,404.0
+2023,Prince Edward Island,Prince Edward Island — provincial and local,Defence,0.0
+2023,Prince Edward Island,Prince Edward Island — provincial and local,Public order and safety,107.0
+2023,Prince Edward Island,Prince Edward Island — provincial and local,Economic affairs,392.0
+2023,Prince Edward Island,Prince Edward Island — provincial and local,Environment,113.0
+2023,Prince Edward Island,Prince Edward Island — provincial and local,Housing and community,54.0
+2023,Prince Edward Island,Prince Edward Island — provincial and local,Health,1034.0
+2023,Prince Edward Island,Prince Edward Island — provincial and local,Recreation and culture,32.0
+2023,Prince Edward Island,Prince Edward Island — provincial and local,Education,600.0
+2023,Prince Edward Island,Prince Edward Island — provincial and local,Social protection,295.0
+2024,Prince Edward Island,Prince Edward Island — provincial and local,General public services,422.0
+2024,Prince Edward Island,Prince Edward Island — provincial and local,Defence,0.0
+2024,Prince Edward Island,Prince Edward Island — provincial and local,Public order and safety,109.0
+2024,Prince Edward Island,Prince Edward Island — provincial and local,Economic affairs,428.0
+2024,Prince Edward Island,Prince Edward Island — provincial and local,Environment,113.0
+2024,Prince Edward Island,Prince Edward Island — provincial and local,Housing and community,45.0
+2024,Prince Edward Island,Prince Edward Island — provincial and local,Health,1115.0
+2024,Prince Edward Island,Prince Edward Island — provincial and local,Recreation and culture,32.0
+2024,Prince Edward Island,Prince Edward Island — provincial and local,Education,606.0
+2024,Prince Edward Island,Prince Edward Island — provincial and local,Social protection,325.0
+2008,Nova Scotia,Nova Scotia — provincial and local,General public services,1604.0
+2008,Nova Scotia,Nova Scotia — provincial and local,Defence,0.0
+2008,Nova Scotia,Nova Scotia — provincial and local,Public order and safety,516.0
+2008,Nova Scotia,Nova Scotia — provincial and local,Economic affairs,981.0
+2008,Nova Scotia,Nova Scotia — provincial and local,Environment,284.0
+2008,Nova Scotia,Nova Scotia — provincial and local,Housing and community,140.0
+2008,Nova Scotia,Nova Scotia — provincial and local,Health,3479.0
+2008,Nova Scotia,Nova Scotia — provincial and local,Recreation and culture,188.0
+2008,Nova Scotia,Nova Scotia — provincial and local,Education,1809.0
+2008,Nova Scotia,Nova Scotia — provincial and local,Social protection,1037.0
+2009,Nova Scotia,Nova Scotia — provincial and local,General public services,1631.0
+2009,Nova Scotia,Nova Scotia — provincial and local,Defence,0.0
+2009,Nova Scotia,Nova Scotia — provincial and local,Public order and safety,547.0
+2009,Nova Scotia,Nova Scotia — provincial and local,Economic affairs,916.0
+2009,Nova Scotia,Nova Scotia — provincial and local,Environment,331.0
+2009,Nova Scotia,Nova Scotia — provincial and local,Housing and community,143.0
+2009,Nova Scotia,Nova Scotia — provincial and local,Health,3722.0
+2009,Nova Scotia,Nova Scotia — provincial and local,Recreation and culture,190.0
+2009,Nova Scotia,Nova Scotia — provincial and local,Education,1955.0
+2009,Nova Scotia,Nova Scotia — provincial and local,Social protection,1084.0
+2010,Nova Scotia,Nova Scotia — provincial and local,General public services,1434.0
+2010,Nova Scotia,Nova Scotia — provincial and local,Defence,0.0
+2010,Nova Scotia,Nova Scotia — provincial and local,Public order and safety,573.0
+2010,Nova Scotia,Nova Scotia — provincial and local,Economic affairs,988.0
+2010,Nova Scotia,Nova Scotia — provincial and local,Environment,314.0
+2010,Nova Scotia,Nova Scotia — provincial and local,Housing and community,153.0
+2010,Nova Scotia,Nova Scotia — provincial and local,Health,3983.0
+2010,Nova Scotia,Nova Scotia — provincial and local,Recreation and culture,210.0
+2010,Nova Scotia,Nova Scotia — provincial and local,Education,2013.0
+2010,Nova Scotia,Nova Scotia — provincial and local,Social protection,1096.0
+2011,Nova Scotia,Nova Scotia — provincial and local,General public services,1609.0
+2011,Nova Scotia,Nova Scotia — provincial and local,Defence,0.0
+2011,Nova Scotia,Nova Scotia — provincial and local,Public order and safety,591.0
+2011,Nova Scotia,Nova Scotia — provincial and local,Economic affairs,933.0
+2011,Nova Scotia,Nova Scotia — provincial and local,Environment,324.0
+2011,Nova Scotia,Nova Scotia — provincial and local,Housing and community,160.0
+2011,Nova Scotia,Nova Scotia — provincial and local,Health,4095.0
+2011,Nova Scotia,Nova Scotia — provincial and local,Recreation and culture,216.0
+2011,Nova Scotia,Nova Scotia — provincial and local,Education,2135.0
+2011,Nova Scotia,Nova Scotia — provincial and local,Social protection,1131.0
+2012,Nova Scotia,Nova Scotia — provincial and local,General public services,1669.0
+2012,Nova Scotia,Nova Scotia — provincial and local,Defence,0.0
+2012,Nova Scotia,Nova Scotia — provincial and local,Public order and safety,615.0
+2012,Nova Scotia,Nova Scotia — provincial and local,Economic affairs,961.0
+2012,Nova Scotia,Nova Scotia — provincial and local,Environment,317.0
+2012,Nova Scotia,Nova Scotia — provincial and local,Housing and community,160.0
+2012,Nova Scotia,Nova Scotia — provincial and local,Health,4357.0
+2012,Nova Scotia,Nova Scotia — provincial and local,Recreation and culture,257.0
+2012,Nova Scotia,Nova Scotia — provincial and local,Education,2231.0
+2012,Nova Scotia,Nova Scotia — provincial and local,Social protection,1218.0
+2013,Nova Scotia,Nova Scotia — provincial and local,General public services,1522.0
+2013,Nova Scotia,Nova Scotia — provincial and local,Defence,0.0
+2013,Nova Scotia,Nova Scotia — provincial and local,Public order and safety,628.0
+2013,Nova Scotia,Nova Scotia — provincial and local,Economic affairs,967.0
+2013,Nova Scotia,Nova Scotia — provincial and local,Environment,279.0
+2013,Nova Scotia,Nova Scotia — provincial and local,Housing and community,162.0
+2013,Nova Scotia,Nova Scotia — provincial and local,Health,4569.0
+2013,Nova Scotia,Nova Scotia — provincial and local,Recreation and culture,261.0
+2013,Nova Scotia,Nova Scotia — provincial and local,Education,2252.0
+2013,Nova Scotia,Nova Scotia — provincial and local,Social protection,1285.0
+2014,Nova Scotia,Nova Scotia — provincial and local,General public services,1606.0
+2014,Nova Scotia,Nova Scotia — provincial and local,Defence,0.0
+2014,Nova Scotia,Nova Scotia — provincial and local,Public order and safety,648.0
+2014,Nova Scotia,Nova Scotia — provincial and local,Economic affairs,1008.0
+2014,Nova Scotia,Nova Scotia — provincial and local,Environment,310.0
+2014,Nova Scotia,Nova Scotia — provincial and local,Housing and community,199.0
+2014,Nova Scotia,Nova Scotia — provincial and local,Health,4762.0
+2014,Nova Scotia,Nova Scotia — provincial and local,Recreation and culture,288.0
+2014,Nova Scotia,Nova Scotia — provincial and local,Education,2344.0
+2014,Nova Scotia,Nova Scotia — provincial and local,Social protection,1265.0
+2015,Nova Scotia,Nova Scotia — provincial and local,General public services,1651.0
+2015,Nova Scotia,Nova Scotia — provincial and local,Defence,0.0
+2015,Nova Scotia,Nova Scotia — provincial and local,Public order and safety,636.0
+2015,Nova Scotia,Nova Scotia — provincial and local,Economic affairs,916.0
+2015,Nova Scotia,Nova Scotia — provincial and local,Environment,303.0
+2015,Nova Scotia,Nova Scotia — provincial and local,Housing and community,207.0
+2015,Nova Scotia,Nova Scotia — provincial and local,Health,4850.0
+2015,Nova Scotia,Nova Scotia — provincial and local,Recreation and culture,294.0
+2015,Nova Scotia,Nova Scotia — provincial and local,Education,2364.0
+2015,Nova Scotia,Nova Scotia — provincial and local,Social protection,1281.0
+2016,Nova Scotia,Nova Scotia — provincial and local,General public services,1815.0
+2016,Nova Scotia,Nova Scotia — provincial and local,Defence,0.0
+2016,Nova Scotia,Nova Scotia — provincial and local,Public order and safety,686.0
+2016,Nova Scotia,Nova Scotia — provincial and local,Economic affairs,1035.0
+2016,Nova Scotia,Nova Scotia — provincial and local,Environment,252.0
+2016,Nova Scotia,Nova Scotia — provincial and local,Housing and community,204.0
+2016,Nova Scotia,Nova Scotia — provincial and local,Health,4860.0
+2016,Nova Scotia,Nova Scotia — provincial and local,Recreation and culture,316.0
+2016,Nova Scotia,Nova Scotia — provincial and local,Education,2105.0
+2016,Nova Scotia,Nova Scotia — provincial and local,Social protection,1307.0
+2017,Nova Scotia,Nova Scotia — provincial and local,General public services,1850.0
+2017,Nova Scotia,Nova Scotia — provincial and local,Defence,0.0
+2017,Nova Scotia,Nova Scotia — provincial and local,Public order and safety,733.0
+2017,Nova Scotia,Nova Scotia — provincial and local,Economic affairs,1203.0
+2017,Nova Scotia,Nova Scotia — provincial and local,Environment,252.0
+2017,Nova Scotia,Nova Scotia — provincial and local,Housing and community,205.0
+2017,Nova Scotia,Nova Scotia — provincial and local,Health,4948.0
+2017,Nova Scotia,Nova Scotia — provincial and local,Recreation and culture,302.0
+2017,Nova Scotia,Nova Scotia — provincial and local,Education,2306.0
+2017,Nova Scotia,Nova Scotia — provincial and local,Social protection,1321.0
+2018,Nova Scotia,Nova Scotia — provincial and local,General public services,1960.0
+2018,Nova Scotia,Nova Scotia — provincial and local,Defence,0.0
+2018,Nova Scotia,Nova Scotia — provincial and local,Public order and safety,742.0
+2018,Nova Scotia,Nova Scotia — provincial and local,Economic affairs,1085.0
+2018,Nova Scotia,Nova Scotia — provincial and local,Environment,314.0
+2018,Nova Scotia,Nova Scotia — provincial and local,Housing and community,155.0
+2018,Nova Scotia,Nova Scotia — provincial and local,Health,5210.0
+2018,Nova Scotia,Nova Scotia — provincial and local,Recreation and culture,300.0
+2018,Nova Scotia,Nova Scotia — provincial and local,Education,2494.0
+2018,Nova Scotia,Nova Scotia — provincial and local,Social protection,1290.0
+2019,Nova Scotia,Nova Scotia — provincial and local,General public services,2080.0
+2019,Nova Scotia,Nova Scotia — provincial and local,Defence,0.0
+2019,Nova Scotia,Nova Scotia — provincial and local,Public order and safety,766.0
+2019,Nova Scotia,Nova Scotia — provincial and local,Economic affairs,1102.0
+2019,Nova Scotia,Nova Scotia — provincial and local,Environment,295.0
+2019,Nova Scotia,Nova Scotia — provincial and local,Housing and community,187.0
+2019,Nova Scotia,Nova Scotia — provincial and local,Health,5470.0
+2019,Nova Scotia,Nova Scotia — provincial and local,Recreation and culture,263.0
+2019,Nova Scotia,Nova Scotia — provincial and local,Education,2598.0
+2019,Nova Scotia,Nova Scotia — provincial and local,Social protection,1314.0
+2020,Nova Scotia,Nova Scotia — provincial and local,General public services,1658.0
+2020,Nova Scotia,Nova Scotia — provincial and local,Defence,0.0
+2020,Nova Scotia,Nova Scotia — provincial and local,Public order and safety,799.0
+2020,Nova Scotia,Nova Scotia — provincial and local,Economic affairs,1173.0
+2020,Nova Scotia,Nova Scotia — provincial and local,Environment,335.0
+2020,Nova Scotia,Nova Scotia — provincial and local,Housing and community,191.0
+2020,Nova Scotia,Nova Scotia — provincial and local,Health,5644.0
+2020,Nova Scotia,Nova Scotia — provincial and local,Recreation and culture,280.0
+2020,Nova Scotia,Nova Scotia — provincial and local,Education,2784.0
+2020,Nova Scotia,Nova Scotia — provincial and local,Social protection,1316.0
+2021,Nova Scotia,Nova Scotia — provincial and local,General public services,1731.0
+2021,Nova Scotia,Nova Scotia — provincial and local,Defence,0.0
+2021,Nova Scotia,Nova Scotia — provincial and local,Public order and safety,775.0
+2021,Nova Scotia,Nova Scotia — provincial and local,Economic affairs,1172.0
+2021,Nova Scotia,Nova Scotia — provincial and local,Environment,383.0
+2021,Nova Scotia,Nova Scotia — provincial and local,Housing and community,288.0
+2021,Nova Scotia,Nova Scotia — provincial and local,Health,6595.0
+2021,Nova Scotia,Nova Scotia — provincial and local,Recreation and culture,412.0
+2021,Nova Scotia,Nova Scotia — provincial and local,Education,2695.0
+2021,Nova Scotia,Nova Scotia — provincial and local,Social protection,1435.0
+2022,Nova Scotia,Nova Scotia — provincial and local,General public services,2184.0
+2022,Nova Scotia,Nova Scotia — provincial and local,Defence,0.0
+2022,Nova Scotia,Nova Scotia — provincial and local,Public order and safety,781.0
+2022,Nova Scotia,Nova Scotia — provincial and local,Economic affairs,1206.0
+2022,Nova Scotia,Nova Scotia — provincial and local,Environment,482.0
+2022,Nova Scotia,Nova Scotia — provincial and local,Housing and community,774.0
+2022,Nova Scotia,Nova Scotia — provincial and local,Health,6341.0
+2022,Nova Scotia,Nova Scotia — provincial and local,Recreation and culture,331.0
+2022,Nova Scotia,Nova Scotia — provincial and local,Education,3263.0
+2022,Nova Scotia,Nova Scotia — provincial and local,Social protection,1472.0
+2023,Nova Scotia,Nova Scotia — provincial and local,General public services,2037.0
+2023,Nova Scotia,Nova Scotia — provincial and local,Defence,0.0
+2023,Nova Scotia,Nova Scotia — provincial and local,Public order and safety,964.0
+2023,Nova Scotia,Nova Scotia — provincial and local,Economic affairs,1240.0
+2023,Nova Scotia,Nova Scotia — provincial and local,Environment,424.0
+2023,Nova Scotia,Nova Scotia — provincial and local,Housing and community,1107.0
+2023,Nova Scotia,Nova Scotia — provincial and local,Health,7189.0
+2023,Nova Scotia,Nova Scotia — provincial and local,Recreation and culture,399.0
+2023,Nova Scotia,Nova Scotia — provincial and local,Education,3519.0
+2023,Nova Scotia,Nova Scotia — provincial and local,Social protection,1339.0
+2024,Nova Scotia,Nova Scotia — provincial and local,General public services,2065.0
+2024,Nova Scotia,Nova Scotia — provincial and local,Defence,0.0
+2024,Nova Scotia,Nova Scotia — provincial and local,Public order and safety,974.0
+2024,Nova Scotia,Nova Scotia — provincial and local,Economic affairs,1532.0
+2024,Nova Scotia,Nova Scotia — provincial and local,Environment,428.0
+2024,Nova Scotia,Nova Scotia — provincial and local,Housing and community,1076.0
+2024,Nova Scotia,Nova Scotia — provincial and local,Health,7912.0
+2024,Nova Scotia,Nova Scotia — provincial and local,Recreation and culture,413.0
+2024,Nova Scotia,Nova Scotia — provincial and local,Education,3554.0
+2024,Nova Scotia,Nova Scotia — provincial and local,Social protection,1416.0
+2008,New Brunswick,New Brunswick — provincial and local,General public services,1359.0
+2008,New Brunswick,New Brunswick — provincial and local,Defence,0.0
+2008,New Brunswick,New Brunswick — provincial and local,Public order and safety,401.0
+2008,New Brunswick,New Brunswick — provincial and local,Economic affairs,958.0
+2008,New Brunswick,New Brunswick — provincial and local,Environment,160.0
+2008,New Brunswick,New Brunswick — provincial and local,Housing and community,107.0
+2008,New Brunswick,New Brunswick — provincial and local,Health,3209.0
+2008,New Brunswick,New Brunswick — provincial and local,Recreation and culture,134.0
+2008,New Brunswick,New Brunswick — provincial and local,Education,1630.0
+2008,New Brunswick,New Brunswick — provincial and local,Social protection,717.0
+2009,New Brunswick,New Brunswick — provincial and local,General public services,1344.0
+2009,New Brunswick,New Brunswick — provincial and local,Defence,0.0
+2009,New Brunswick,New Brunswick — provincial and local,Public order and safety,399.0
+2009,New Brunswick,New Brunswick — provincial and local,Economic affairs,964.0
+2009,New Brunswick,New Brunswick — provincial and local,Environment,179.0
+2009,New Brunswick,New Brunswick — provincial and local,Housing and community,109.0
+2009,New Brunswick,New Brunswick — provincial and local,Health,3450.0
+2009,New Brunswick,New Brunswick — provincial and local,Recreation and culture,142.0
+2009,New Brunswick,New Brunswick — provincial and local,Education,1649.0
+2009,New Brunswick,New Brunswick — provincial and local,Social protection,693.0
+2010,New Brunswick,New Brunswick — provincial and local,General public services,1436.0
+2010,New Brunswick,New Brunswick — provincial and local,Defence,0.0
+2010,New Brunswick,New Brunswick — provincial and local,Public order and safety,441.0
+2010,New Brunswick,New Brunswick — provincial and local,Economic affairs,964.0
+2010,New Brunswick,New Brunswick — provincial and local,Environment,176.0
+2010,New Brunswick,New Brunswick — provincial and local,Housing and community,122.0
+2010,New Brunswick,New Brunswick — provincial and local,Health,3616.0
+2010,New Brunswick,New Brunswick — provincial and local,Recreation and culture,148.0
+2010,New Brunswick,New Brunswick — provincial and local,Education,1751.0
+2010,New Brunswick,New Brunswick — provincial and local,Social protection,721.0
+2011,New Brunswick,New Brunswick — provincial and local,General public services,1455.0
+2011,New Brunswick,New Brunswick — provincial and local,Defence,0.0
+2011,New Brunswick,New Brunswick — provincial and local,Public order and safety,425.0
+2011,New Brunswick,New Brunswick — provincial and local,Economic affairs,922.0
+2011,New Brunswick,New Brunswick — provincial and local,Environment,175.0
+2011,New Brunswick,New Brunswick — provincial and local,Housing and community,112.0
+2011,New Brunswick,New Brunswick — provincial and local,Health,3716.0
+2011,New Brunswick,New Brunswick — provincial and local,Recreation and culture,148.0
+2011,New Brunswick,New Brunswick — provincial and local,Education,1780.0
+2011,New Brunswick,New Brunswick — provincial and local,Social protection,664.0
+2012,New Brunswick,New Brunswick — provincial and local,General public services,1490.0
+2012,New Brunswick,New Brunswick — provincial and local,Defence,0.0
+2012,New Brunswick,New Brunswick — provincial and local,Public order and safety,444.0
+2012,New Brunswick,New Brunswick — provincial and local,Economic affairs,895.0
+2012,New Brunswick,New Brunswick — provincial and local,Environment,175.0
+2012,New Brunswick,New Brunswick — provincial and local,Housing and community,118.0
+2012,New Brunswick,New Brunswick — provincial and local,Health,3766.0
+2012,New Brunswick,New Brunswick — provincial and local,Recreation and culture,141.0
+2012,New Brunswick,New Brunswick — provincial and local,Education,1853.0
+2012,New Brunswick,New Brunswick — provincial and local,Social protection,677.0
+2013,New Brunswick,New Brunswick — provincial and local,General public services,1475.0
+2013,New Brunswick,New Brunswick — provincial and local,Defence,0.0
+2013,New Brunswick,New Brunswick — provincial and local,Public order and safety,441.0
+2013,New Brunswick,New Brunswick — provincial and local,Economic affairs,936.0
+2013,New Brunswick,New Brunswick — provincial and local,Environment,142.0
+2013,New Brunswick,New Brunswick — provincial and local,Housing and community,107.0
+2013,New Brunswick,New Brunswick — provincial and local,Health,3915.0
+2013,New Brunswick,New Brunswick — provincial and local,Recreation and culture,158.0
+2013,New Brunswick,New Brunswick — provincial and local,Education,1888.0
+2013,New Brunswick,New Brunswick — provincial and local,Social protection,702.0
+2014,New Brunswick,New Brunswick — provincial and local,General public services,1563.0
+2014,New Brunswick,New Brunswick — provincial and local,Defence,0.0
+2014,New Brunswick,New Brunswick — provincial and local,Public order and safety,451.0
+2014,New Brunswick,New Brunswick — provincial and local,Economic affairs,1000.0
+2014,New Brunswick,New Brunswick — provincial and local,Environment,121.0
+2014,New Brunswick,New Brunswick — provincial and local,Housing and community,114.0
+2014,New Brunswick,New Brunswick — provincial and local,Health,3985.0
+2014,New Brunswick,New Brunswick — provincial and local,Recreation and culture,167.0
+2014,New Brunswick,New Brunswick — provincial and local,Education,2140.0
+2014,New Brunswick,New Brunswick — provincial and local,Social protection,771.0
+2015,New Brunswick,New Brunswick — provincial and local,General public services,1592.0
+2015,New Brunswick,New Brunswick — provincial and local,Defence,0.0
+2015,New Brunswick,New Brunswick — provincial and local,Public order and safety,469.0
+2015,New Brunswick,New Brunswick — provincial and local,Economic affairs,1010.0
+2015,New Brunswick,New Brunswick — provincial and local,Environment,140.0
+2015,New Brunswick,New Brunswick — provincial and local,Housing and community,117.0
+2015,New Brunswick,New Brunswick — provincial and local,Health,4063.0
+2015,New Brunswick,New Brunswick — provincial and local,Recreation and culture,149.0
+2015,New Brunswick,New Brunswick — provincial and local,Education,1899.0
+2015,New Brunswick,New Brunswick — provincial and local,Social protection,892.0
+2016,New Brunswick,New Brunswick — provincial and local,General public services,1816.0
+2016,New Brunswick,New Brunswick — provincial and local,Defence,0.0
+2016,New Brunswick,New Brunswick — provincial and local,Public order and safety,504.0
+2016,New Brunswick,New Brunswick — provincial and local,Economic affairs,1057.0
+2016,New Brunswick,New Brunswick — provincial and local,Environment,119.0
+2016,New Brunswick,New Brunswick — provincial and local,Housing and community,128.0
+2016,New Brunswick,New Brunswick — provincial and local,Health,4132.0
+2016,New Brunswick,New Brunswick — provincial and local,Recreation and culture,153.0
+2016,New Brunswick,New Brunswick — provincial and local,Education,1876.0
+2016,New Brunswick,New Brunswick — provincial and local,Social protection,974.0
+2017,New Brunswick,New Brunswick — provincial and local,General public services,1823.0
+2017,New Brunswick,New Brunswick — provincial and local,Defence,0.0
+2017,New Brunswick,New Brunswick — provincial and local,Public order and safety,513.0
+2017,New Brunswick,New Brunswick — provincial and local,Economic affairs,1173.0
+2017,New Brunswick,New Brunswick — provincial and local,Environment,122.0
+2017,New Brunswick,New Brunswick — provincial and local,Housing and community,128.0
+2017,New Brunswick,New Brunswick — provincial and local,Health,4091.0
+2017,New Brunswick,New Brunswick — provincial and local,Recreation and culture,171.0
+2017,New Brunswick,New Brunswick — provincial and local,Education,1948.0
+2017,New Brunswick,New Brunswick — provincial and local,Social protection,1222.0
+2018,New Brunswick,New Brunswick — provincial and local,General public services,1783.0
+2018,New Brunswick,New Brunswick — provincial and local,Defence,0.0
+2018,New Brunswick,New Brunswick — provincial and local,Public order and safety,590.0
+2018,New Brunswick,New Brunswick — provincial and local,Economic affairs,1187.0
+2018,New Brunswick,New Brunswick — provincial and local,Environment,128.0
+2018,New Brunswick,New Brunswick — provincial and local,Housing and community,138.0
+2018,New Brunswick,New Brunswick — provincial and local,Health,4233.0
+2018,New Brunswick,New Brunswick — provincial and local,Recreation and culture,178.0
+2018,New Brunswick,New Brunswick — provincial and local,Education,2022.0
+2018,New Brunswick,New Brunswick — provincial and local,Social protection,1254.0
+2019,New Brunswick,New Brunswick — provincial and local,General public services,1874.0
+2019,New Brunswick,New Brunswick — provincial and local,Defence,0.0
+2019,New Brunswick,New Brunswick — provincial and local,Public order and safety,581.0
+2019,New Brunswick,New Brunswick — provincial and local,Economic affairs,1178.0
+2019,New Brunswick,New Brunswick — provincial and local,Environment,143.0
+2019,New Brunswick,New Brunswick — provincial and local,Housing and community,148.0
+2019,New Brunswick,New Brunswick — provincial and local,Health,4357.0
+2019,New Brunswick,New Brunswick — provincial and local,Recreation and culture,183.0
+2019,New Brunswick,New Brunswick — provincial and local,Education,2129.0
+2019,New Brunswick,New Brunswick — provincial and local,Social protection,1270.0
+2020,New Brunswick,New Brunswick — provincial and local,General public services,1851.0
+2020,New Brunswick,New Brunswick — provincial and local,Defence,0.0
+2020,New Brunswick,New Brunswick — provincial and local,Public order and safety,627.0
+2020,New Brunswick,New Brunswick — provincial and local,Economic affairs,1155.0
+2020,New Brunswick,New Brunswick — provincial and local,Environment,133.0
+2020,New Brunswick,New Brunswick — provincial and local,Housing and community,140.0
+2020,New Brunswick,New Brunswick — provincial and local,Health,4556.0
+2020,New Brunswick,New Brunswick — provincial and local,Recreation and culture,171.0
+2020,New Brunswick,New Brunswick — provincial and local,Education,2133.0
+2020,New Brunswick,New Brunswick — provincial and local,Social protection,753.0
+2021,New Brunswick,New Brunswick — provincial and local,General public services,1721.0
+2021,New Brunswick,New Brunswick — provincial and local,Defence,0.0
+2021,New Brunswick,New Brunswick — provincial and local,Public order and safety,620.0
+2021,New Brunswick,New Brunswick — provincial and local,Economic affairs,1213.0
+2021,New Brunswick,New Brunswick — provincial and local,Environment,133.0
+2021,New Brunswick,New Brunswick — provincial and local,Housing and community,175.0
+2021,New Brunswick,New Brunswick — provincial and local,Health,4691.0
+2021,New Brunswick,New Brunswick — provincial and local,Recreation and culture,165.0
+2021,New Brunswick,New Brunswick — provincial and local,Education,2197.0
+2021,New Brunswick,New Brunswick — provincial and local,Social protection,800.0
+2022,New Brunswick,New Brunswick — provincial and local,General public services,1623.0
+2022,New Brunswick,New Brunswick — provincial and local,Defence,0.0
+2022,New Brunswick,New Brunswick — provincial and local,Public order and safety,636.0
+2022,New Brunswick,New Brunswick — provincial and local,Economic affairs,1410.0
+2022,New Brunswick,New Brunswick — provincial and local,Environment,162.0
+2022,New Brunswick,New Brunswick — provincial and local,Housing and community,192.0
+2022,New Brunswick,New Brunswick — provincial and local,Health,5300.0
+2022,New Brunswick,New Brunswick — provincial and local,Recreation and culture,171.0
+2022,New Brunswick,New Brunswick — provincial and local,Education,2412.0
+2022,New Brunswick,New Brunswick — provincial and local,Social protection,880.0
+2023,New Brunswick,New Brunswick — provincial and local,General public services,1739.0
+2023,New Brunswick,New Brunswick — provincial and local,Defence,0.0
+2023,New Brunswick,New Brunswick — provincial and local,Public order and safety,726.0
+2023,New Brunswick,New Brunswick — provincial and local,Economic affairs,1352.0
+2023,New Brunswick,New Brunswick — provincial and local,Environment,219.0
+2023,New Brunswick,New Brunswick — provincial and local,Housing and community,171.0
+2023,New Brunswick,New Brunswick — provincial and local,Health,5775.0
+2023,New Brunswick,New Brunswick — provincial and local,Recreation and culture,203.0
+2023,New Brunswick,New Brunswick — provincial and local,Education,2658.0
+2023,New Brunswick,New Brunswick — provincial and local,Social protection,1147.0
+2024,New Brunswick,New Brunswick — provincial and local,General public services,1891.0
+2024,New Brunswick,New Brunswick — provincial and local,Defence,0.0
+2024,New Brunswick,New Brunswick — provincial and local,Public order and safety,755.0
+2024,New Brunswick,New Brunswick — provincial and local,Economic affairs,1465.0
+2024,New Brunswick,New Brunswick — provincial and local,Environment,182.0
+2024,New Brunswick,New Brunswick — provincial and local,Housing and community,271.0
+2024,New Brunswick,New Brunswick — provincial and local,Health,6100.0
+2024,New Brunswick,New Brunswick — provincial and local,Recreation and culture,211.0
+2024,New Brunswick,New Brunswick — provincial and local,Education,2833.0
+2024,New Brunswick,New Brunswick — provincial and local,Social protection,1409.0
+2008,Quebec,Quebec — provincial and local,General public services,16649.0
+2008,Quebec,Quebec — provincial and local,Defence,0.0
+2008,Quebec,Quebec — provincial and local,Public order and safety,3901.0
+2008,Quebec,Quebec — provincial and local,Economic affairs,9874.0
+2008,Quebec,Quebec — provincial and local,Environment,1388.0
+2008,Quebec,Quebec — provincial and local,Housing and community,1098.0
+2008,Quebec,Quebec — provincial and local,Health,27518.0
+2008,Quebec,Quebec — provincial and local,Recreation and culture,2578.0
+2008,Quebec,Quebec — provincial and local,Education,14237.0
+2008,Quebec,Quebec — provincial and local,Social protection,15428.0
+2009,Quebec,Quebec — provincial and local,General public services,15769.0
+2009,Quebec,Quebec — provincial and local,Defence,0.0
+2009,Quebec,Quebec — provincial and local,Public order and safety,4029.0
+2009,Quebec,Quebec — provincial and local,Economic affairs,9786.0
+2009,Quebec,Quebec — provincial and local,Environment,1541.0
+2009,Quebec,Quebec — provincial and local,Housing and community,1156.0
+2009,Quebec,Quebec — provincial and local,Health,28677.0
+2009,Quebec,Quebec — provincial and local,Recreation and culture,2720.0
+2009,Quebec,Quebec — provincial and local,Education,14777.0
+2009,Quebec,Quebec — provincial and local,Social protection,16166.0
+2010,Quebec,Quebec — provincial and local,General public services,17738.0
+2010,Quebec,Quebec — provincial and local,Defence,0.0
+2010,Quebec,Quebec — provincial and local,Public order and safety,4040.0
+2010,Quebec,Quebec — provincial and local,Economic affairs,10277.0
+2010,Quebec,Quebec — provincial and local,Environment,1615.0
+2010,Quebec,Quebec — provincial and local,Housing and community,1148.0
+2010,Quebec,Quebec — provincial and local,Health,29530.0
+2010,Quebec,Quebec — provincial and local,Recreation and culture,2639.0
+2010,Quebec,Quebec — provincial and local,Education,14884.0
+2010,Quebec,Quebec — provincial and local,Social protection,16492.0
+2011,Quebec,Quebec — provincial and local,General public services,18592.0
+2011,Quebec,Quebec — provincial and local,Defence,0.0
+2011,Quebec,Quebec — provincial and local,Public order and safety,4326.0
+2011,Quebec,Quebec — provincial and local,Economic affairs,10225.0
+2011,Quebec,Quebec — provincial and local,Environment,1570.0
+2011,Quebec,Quebec — provincial and local,Housing and community,1195.0
+2011,Quebec,Quebec — provincial and local,Health,30971.0
+2011,Quebec,Quebec — provincial and local,Recreation and culture,2747.0
+2011,Quebec,Quebec — provincial and local,Education,15621.0
+2011,Quebec,Quebec — provincial and local,Social protection,17496.0
+2012,Quebec,Quebec — provincial and local,General public services,19291.0
+2012,Quebec,Quebec — provincial and local,Defence,0.0
+2012,Quebec,Quebec — provincial and local,Public order and safety,4509.0
+2012,Quebec,Quebec — provincial and local,Economic affairs,10702.0
+2012,Quebec,Quebec — provincial and local,Environment,1678.0
+2012,Quebec,Quebec — provincial and local,Housing and community,1251.0
+2012,Quebec,Quebec — provincial and local,Health,31903.0
+2012,Quebec,Quebec — provincial and local,Recreation and culture,2850.0
+2012,Quebec,Quebec — provincial and local,Education,16211.0
+2012,Quebec,Quebec — provincial and local,Social protection,17233.0
+2013,Quebec,Quebec — provincial and local,General public services,20254.0
+2013,Quebec,Quebec — provincial and local,Defence,0.0
+2013,Quebec,Quebec — provincial and local,Public order and safety,4665.0
+2013,Quebec,Quebec — provincial and local,Economic affairs,11079.0
+2013,Quebec,Quebec — provincial and local,Environment,1717.0
+2013,Quebec,Quebec — provincial and local,Housing and community,1322.0
+2013,Quebec,Quebec — provincial and local,Health,33729.0
+2013,Quebec,Quebec — provincial and local,Recreation and culture,3069.0
+2013,Quebec,Quebec — provincial and local,Education,16733.0
+2013,Quebec,Quebec — provincial and local,Social protection,17741.0
+2014,Quebec,Quebec — provincial and local,General public services,20731.0
+2014,Quebec,Quebec — provincial and local,Defence,0.0
+2014,Quebec,Quebec — provincial and local,Public order and safety,4882.0
+2014,Quebec,Quebec — provincial and local,Economic affairs,11027.0
+2014,Quebec,Quebec — provincial and local,Environment,1790.0
+2014,Quebec,Quebec — provincial and local,Housing and community,1249.0
+2014,Quebec,Quebec — provincial and local,Health,34968.0
+2014,Quebec,Quebec — provincial and local,Recreation and culture,2898.0
+2014,Quebec,Quebec — provincial and local,Education,17035.0
+2014,Quebec,Quebec — provincial and local,Social protection,18112.0
+2015,Quebec,Quebec — provincial and local,General public services,21160.0
+2015,Quebec,Quebec — provincial and local,Defence,0.0
+2015,Quebec,Quebec — provincial and local,Public order and safety,4902.0
+2015,Quebec,Quebec — provincial and local,Economic affairs,10944.0
+2015,Quebec,Quebec — provincial and local,Environment,1838.0
+2015,Quebec,Quebec — provincial and local,Housing and community,1187.0
+2015,Quebec,Quebec — provincial and local,Health,35693.0
+2015,Quebec,Quebec — provincial and local,Recreation and culture,3103.0
+2015,Quebec,Quebec — provincial and local,Education,16931.0
+2015,Quebec,Quebec — provincial and local,Social protection,18022.0
+2016,Quebec,Quebec — provincial and local,General public services,22930.0
+2016,Quebec,Quebec — provincial and local,Defence,0.0
+2016,Quebec,Quebec — provincial and local,Public order and safety,4615.0
+2016,Quebec,Quebec — provincial and local,Economic affairs,10746.0
+2016,Quebec,Quebec — provincial and local,Environment,1790.0
+2016,Quebec,Quebec — provincial and local,Housing and community,1155.0
+2016,Quebec,Quebec — provincial and local,Health,36519.0
+2016,Quebec,Quebec — provincial and local,Recreation and culture,3026.0
+2016,Quebec,Quebec — provincial and local,Education,17485.0
+2016,Quebec,Quebec — provincial and local,Social protection,17918.0
+2017,Quebec,Quebec — provincial and local,General public services,24088.0
+2017,Quebec,Quebec — provincial and local,Defence,0.0
+2017,Quebec,Quebec — provincial and local,Public order and safety,5121.0
+2017,Quebec,Quebec — provincial and local,Economic affairs,11307.0
+2017,Quebec,Quebec — provincial and local,Environment,2202.0
+2017,Quebec,Quebec — provincial and local,Housing and community,1133.0
+2017,Quebec,Quebec — provincial and local,Health,38349.0
+2017,Quebec,Quebec — provincial and local,Recreation and culture,3114.0
+2017,Quebec,Quebec — provincial and local,Education,18927.0
+2017,Quebec,Quebec — provincial and local,Social protection,18381.0
+2018,Quebec,Quebec — provincial and local,General public services,25511.0
+2018,Quebec,Quebec — provincial and local,Defence,0.0
+2018,Quebec,Quebec — provincial and local,Public order and safety,4867.0
+2018,Quebec,Quebec — provincial and local,Economic affairs,12623.0
+2018,Quebec,Quebec — provincial and local,Environment,2289.0
+2018,Quebec,Quebec — provincial and local,Housing and community,1122.0
+2018,Quebec,Quebec — provincial and local,Health,39486.0
+2018,Quebec,Quebec — provincial and local,Recreation and culture,3218.0
+2018,Quebec,Quebec — provincial and local,Education,19428.0
+2018,Quebec,Quebec — provincial and local,Social protection,19113.0
+2019,Quebec,Quebec — provincial and local,General public services,27624.0
+2019,Quebec,Quebec — provincial and local,Defence,0.0
+2019,Quebec,Quebec — provincial and local,Public order and safety,5316.0
+2019,Quebec,Quebec — provincial and local,Economic affairs,12586.0
+2019,Quebec,Quebec — provincial and local,Environment,2362.0
+2019,Quebec,Quebec — provincial and local,Housing and community,1224.0
+2019,Quebec,Quebec — provincial and local,Health,40910.0
+2019,Quebec,Quebec — provincial and local,Recreation and culture,3382.0
+2019,Quebec,Quebec — provincial and local,Education,20240.0
+2019,Quebec,Quebec — provincial and local,Social protection,20336.0
+2020,Quebec,Quebec — provincial and local,General public services,27477.0
+2020,Quebec,Quebec — provincial and local,Defence,0.0
+2020,Quebec,Quebec — provincial and local,Public order and safety,5224.0
+2020,Quebec,Quebec — provincial and local,Economic affairs,15048.0
+2020,Quebec,Quebec — provincial and local,Environment,2851.0
+2020,Quebec,Quebec — provincial and local,Housing and community,1185.0
+2020,Quebec,Quebec — provincial and local,Health,48712.0
+2020,Quebec,Quebec — provincial and local,Recreation and culture,3951.0
+2020,Quebec,Quebec — provincial and local,Education,22290.0
+2020,Quebec,Quebec — provincial and local,Social protection,20889.0
+2021,Quebec,Quebec — provincial and local,General public services,27789.0
+2021,Quebec,Quebec — provincial and local,Defence,0.0
+2021,Quebec,Quebec — provincial and local,Public order and safety,5561.0
+2021,Quebec,Quebec — provincial and local,Economic affairs,15503.0
+2021,Quebec,Quebec — provincial and local,Environment,2882.0
+2021,Quebec,Quebec — provincial and local,Housing and community,1235.0
+2021,Quebec,Quebec — provincial and local,Health,52878.0
+2021,Quebec,Quebec — provincial and local,Recreation and culture,3860.0
+2021,Quebec,Quebec — provincial and local,Education,23433.0
+2021,Quebec,Quebec — provincial and local,Social protection,25944.0
+2022,Quebec,Quebec — provincial and local,General public services,30164.0
+2022,Quebec,Quebec — provincial and local,Defence,0.0
+2022,Quebec,Quebec — provincial and local,Public order and safety,6570.0
+2022,Quebec,Quebec — provincial and local,Economic affairs,16041.0
+2022,Quebec,Quebec — provincial and local,Environment,2987.0
+2022,Quebec,Quebec — provincial and local,Housing and community,1612.0
+2022,Quebec,Quebec — provincial and local,Health,56445.0
+2022,Quebec,Quebec — provincial and local,Recreation and culture,4197.0
+2022,Quebec,Quebec — provincial and local,Education,24872.0
+2022,Quebec,Quebec — provincial and local,Social protection,28681.0
+2023,Quebec,Quebec — provincial and local,General public services,30526.0
+2023,Quebec,Quebec — provincial and local,Defence,0.0
+2023,Quebec,Quebec — provincial and local,Public order and safety,7566.0
+2023,Quebec,Quebec — provincial and local,Economic affairs,18450.0
+2023,Quebec,Quebec — provincial and local,Environment,4105.0
+2023,Quebec,Quebec — provincial and local,Housing and community,1830.0
+2023,Quebec,Quebec — provincial and local,Health,54594.0
+2023,Quebec,Quebec — provincial and local,Recreation and culture,5171.0
+2023,Quebec,Quebec — provincial and local,Education,26901.0
+2023,Quebec,Quebec — provincial and local,Social protection,27686.0
+2024,Quebec,Quebec — provincial and local,General public services,33040.0
+2024,Quebec,Quebec — provincial and local,Defence,0.0
+2024,Quebec,Quebec — provincial and local,Public order and safety,7894.0
+2024,Quebec,Quebec — provincial and local,Economic affairs,19157.0
+2024,Quebec,Quebec — provincial and local,Environment,4204.0
+2024,Quebec,Quebec — provincial and local,Housing and community,1695.0
+2024,Quebec,Quebec — provincial and local,Health,58878.0
+2024,Quebec,Quebec — provincial and local,Recreation and culture,4932.0
+2024,Quebec,Quebec — provincial and local,Education,27890.0
+2024,Quebec,Quebec — provincial and local,Social protection,29758.0
+2008,Ontario,Ontario — provincial and local,General public services,14585.0
+2008,Ontario,Ontario — provincial and local,Defence,0.0
+2008,Ontario,Ontario — provincial and local,Public order and safety,8214.0
+2008,Ontario,Ontario — provincial and local,Economic affairs,9761.0
+2008,Ontario,Ontario — provincial and local,Environment,3019.0
+2008,Ontario,Ontario — provincial and local,Housing and community,1922.0
+2008,Ontario,Ontario — provincial and local,Health,45787.0
+2008,Ontario,Ontario — provincial and local,Recreation and culture,3134.0
+2008,Ontario,Ontario — provincial and local,Education,26767.0
+2008,Ontario,Ontario — provincial and local,Social protection,20688.0
+2009,Ontario,Ontario — provincial and local,General public services,15651.0
+2009,Ontario,Ontario — provincial and local,Defence,0.0
+2009,Ontario,Ontario — provincial and local,Public order and safety,8512.0
+2009,Ontario,Ontario — provincial and local,Economic affairs,11454.0
+2009,Ontario,Ontario — provincial and local,Environment,3511.0
+2009,Ontario,Ontario — provincial and local,Housing and community,2161.0
+2009,Ontario,Ontario — provincial and local,Health,48658.0
+2009,Ontario,Ontario — provincial and local,Recreation and culture,3372.0
+2009,Ontario,Ontario — provincial and local,Education,28397.0
+2009,Ontario,Ontario — provincial and local,Social protection,22953.0
+2010,Ontario,Ontario — provincial and local,General public services,19908.0
+2010,Ontario,Ontario — provincial and local,Defence,0.0
+2010,Ontario,Ontario — provincial and local,Public order and safety,8925.0
+2010,Ontario,Ontario — provincial and local,Economic affairs,12025.0
+2010,Ontario,Ontario — provincial and local,Environment,3840.0
+2010,Ontario,Ontario — provincial and local,Housing and community,2299.0
+2010,Ontario,Ontario — provincial and local,Health,51017.0
+2010,Ontario,Ontario — provincial and local,Recreation and culture,3473.0
+2010,Ontario,Ontario — provincial and local,Education,30920.0
+2010,Ontario,Ontario — provincial and local,Social protection,23965.0
+2011,Ontario,Ontario — provincial and local,General public services,19323.0
+2011,Ontario,Ontario — provincial and local,Defence,0.0
+2011,Ontario,Ontario — provincial and local,Public order and safety,9250.0
+2011,Ontario,Ontario — provincial and local,Economic affairs,14354.0
+2011,Ontario,Ontario — provincial and local,Environment,3589.0
+2011,Ontario,Ontario — provincial and local,Housing and community,2662.0
+2011,Ontario,Ontario — provincial and local,Health,53121.0
+2011,Ontario,Ontario — provincial and local,Recreation and culture,3817.0
+2011,Ontario,Ontario — provincial and local,Education,32192.0
+2011,Ontario,Ontario — provincial and local,Social protection,24501.0
+2012,Ontario,Ontario — provincial and local,General public services,17187.0
+2012,Ontario,Ontario — provincial and local,Defence,0.0
+2012,Ontario,Ontario — provincial and local,Public order and safety,9190.0
+2012,Ontario,Ontario — provincial and local,Economic affairs,14488.0
+2012,Ontario,Ontario — provincial and local,Environment,3709.0
+2012,Ontario,Ontario — provincial and local,Housing and community,2541.0
+2012,Ontario,Ontario — provincial and local,Health,53746.0
+2012,Ontario,Ontario — provincial and local,Recreation and culture,4246.0
+2012,Ontario,Ontario — provincial and local,Education,32329.0
+2012,Ontario,Ontario — provincial and local,Social protection,22866.0
+2013,Ontario,Ontario — provincial and local,General public services,17084.0
+2013,Ontario,Ontario — provincial and local,Defence,0.0
+2013,Ontario,Ontario — provincial and local,Public order and safety,9623.0
+2013,Ontario,Ontario — provincial and local,Economic affairs,14376.0
+2013,Ontario,Ontario — provincial and local,Environment,3659.0
+2013,Ontario,Ontario — provincial and local,Housing and community,2548.0
+2013,Ontario,Ontario — provincial and local,Health,54384.0
+2013,Ontario,Ontario — provincial and local,Recreation and culture,4026.0
+2013,Ontario,Ontario — provincial and local,Education,34073.0
+2013,Ontario,Ontario — provincial and local,Social protection,22863.0
+2014,Ontario,Ontario — provincial and local,General public services,17659.0
+2014,Ontario,Ontario — provincial and local,Defence,0.0
+2014,Ontario,Ontario — provincial and local,Public order and safety,9997.0
+2014,Ontario,Ontario — provincial and local,Economic affairs,15239.0
+2014,Ontario,Ontario — provincial and local,Environment,3781.0
+2014,Ontario,Ontario — provincial and local,Housing and community,2700.0
+2014,Ontario,Ontario — provincial and local,Health,56068.0
+2014,Ontario,Ontario — provincial and local,Recreation and culture,4038.0
+2014,Ontario,Ontario — provincial and local,Education,34528.0
+2014,Ontario,Ontario — provincial and local,Social protection,23257.0
+2015,Ontario,Ontario — provincial and local,General public services,17536.0
+2015,Ontario,Ontario — provincial and local,Defence,0.0
+2015,Ontario,Ontario — provincial and local,Public order and safety,10311.0
+2015,Ontario,Ontario — provincial and local,Economic affairs,15381.0
+2015,Ontario,Ontario — provincial and local,Environment,3867.0
+2015,Ontario,Ontario — provincial and local,Housing and community,2693.0
+2015,Ontario,Ontario — provincial and local,Health,57877.0
+2015,Ontario,Ontario — provincial and local,Recreation and culture,4868.0
+2015,Ontario,Ontario — provincial and local,Education,35124.0
+2015,Ontario,Ontario — provincial and local,Social protection,23348.0
+2016,Ontario,Ontario — provincial and local,General public services,18554.0
+2016,Ontario,Ontario — provincial and local,Defence,0.0
+2016,Ontario,Ontario — provincial and local,Public order and safety,10473.0
+2016,Ontario,Ontario — provincial and local,Economic affairs,15402.0
+2016,Ontario,Ontario — provincial and local,Environment,4198.0
+2016,Ontario,Ontario — provincial and local,Housing and community,2685.0
+2016,Ontario,Ontario — provincial and local,Health,59518.0
+2016,Ontario,Ontario — provincial and local,Recreation and culture,4524.0
+2016,Ontario,Ontario — provincial and local,Education,35711.0
+2016,Ontario,Ontario — provincial and local,Social protection,23908.0
+2017,Ontario,Ontario — provincial and local,General public services,19790.0
+2017,Ontario,Ontario — provincial and local,Defence,0.0
+2017,Ontario,Ontario — provincial and local,Public order and safety,10807.0
+2017,Ontario,Ontario — provincial and local,Economic affairs,16314.0
+2017,Ontario,Ontario — provincial and local,Environment,4399.0
+2017,Ontario,Ontario — provincial and local,Housing and community,2891.0
+2017,Ontario,Ontario — provincial and local,Health,61861.0
+2017,Ontario,Ontario — provincial and local,Recreation and culture,4608.0
+2017,Ontario,Ontario — provincial and local,Education,39042.0
+2017,Ontario,Ontario — provincial and local,Social protection,25338.0
+2018,Ontario,Ontario — provincial and local,General public services,20495.0
+2018,Ontario,Ontario — provincial and local,Defence,0.0
+2018,Ontario,Ontario — provincial and local,Public order and safety,11139.0
+2018,Ontario,Ontario — provincial and local,Economic affairs,21346.0
+2018,Ontario,Ontario — provincial and local,Environment,4655.0
+2018,Ontario,Ontario — provincial and local,Housing and community,2978.0
+2018,Ontario,Ontario — provincial and local,Health,63273.0
+2018,Ontario,Ontario — provincial and local,Recreation and culture,4732.0
+2018,Ontario,Ontario — provincial and local,Education,41356.0
+2018,Ontario,Ontario — provincial and local,Social protection,26950.0
+2019,Ontario,Ontario — provincial and local,General public services,20769.0
+2019,Ontario,Ontario — provincial and local,Defence,0.0
+2019,Ontario,Ontario — provincial and local,Public order and safety,11601.0
+2019,Ontario,Ontario — provincial and local,Economic affairs,22140.0
+2019,Ontario,Ontario — provincial and local,Environment,4532.0
+2019,Ontario,Ontario — provincial and local,Housing and community,3151.0
+2019,Ontario,Ontario — provincial and local,Health,66250.0
+2019,Ontario,Ontario — provincial and local,Recreation and culture,4922.0
+2019,Ontario,Ontario — provincial and local,Education,42249.0
+2019,Ontario,Ontario — provincial and local,Social protection,28048.0
+2020,Ontario,Ontario — provincial and local,General public services,20125.0
+2020,Ontario,Ontario — provincial and local,Defence,0.0
+2020,Ontario,Ontario — provincial and local,Public order and safety,11793.0
+2020,Ontario,Ontario — provincial and local,Economic affairs,25560.0
+2020,Ontario,Ontario — provincial and local,Environment,4333.0
+2020,Ontario,Ontario — provincial and local,Housing and community,2927.0
+2020,Ontario,Ontario — provincial and local,Health,74629.0
+2020,Ontario,Ontario — provincial and local,Recreation and culture,4395.0
+2020,Ontario,Ontario — provincial and local,Education,40904.0
+2020,Ontario,Ontario — provincial and local,Social protection,30051.0
+2021,Ontario,Ontario — provincial and local,General public services,21193.0
+2021,Ontario,Ontario — provincial and local,Defence,0.0
+2021,Ontario,Ontario — provincial and local,Public order and safety,12444.0
+2021,Ontario,Ontario — provincial and local,Economic affairs,27856.0
+2021,Ontario,Ontario — provincial and local,Environment,4569.0
+2021,Ontario,Ontario — provincial and local,Housing and community,3265.0
+2021,Ontario,Ontario — provincial and local,Health,77268.0
+2021,Ontario,Ontario — provincial and local,Recreation and culture,4839.0
+2021,Ontario,Ontario — provincial and local,Education,43394.0
+2021,Ontario,Ontario — provincial and local,Social protection,32398.0
+2022,Ontario,Ontario — provincial and local,General public services,22634.0
+2022,Ontario,Ontario — provincial and local,Defence,0.0
+2022,Ontario,Ontario — provincial and local,Public order and safety,13234.0
+2022,Ontario,Ontario — provincial and local,Economic affairs,25705.0
+2022,Ontario,Ontario — provincial and local,Environment,4748.0
+2022,Ontario,Ontario — provincial and local,Housing and community,3616.0
+2022,Ontario,Ontario — provincial and local,Health,81387.0
+2022,Ontario,Ontario — provincial and local,Recreation and culture,5426.0
+2022,Ontario,Ontario — provincial and local,Education,46236.0
+2022,Ontario,Ontario — provincial and local,Social protection,32858.0
+2023,Ontario,Ontario — provincial and local,General public services,24284.0
+2023,Ontario,Ontario — provincial and local,Defence,0.0
+2023,Ontario,Ontario — provincial and local,Public order and safety,14144.0
+2023,Ontario,Ontario — provincial and local,Economic affairs,28956.0
+2023,Ontario,Ontario — provincial and local,Environment,5424.0
+2023,Ontario,Ontario — provincial and local,Housing and community,3713.0
+2023,Ontario,Ontario — provincial and local,Health,87016.0
+2023,Ontario,Ontario — provincial and local,Recreation and culture,5844.0
+2023,Ontario,Ontario — provincial and local,Education,49180.0
+2023,Ontario,Ontario — provincial and local,Social protection,39075.0
+2024,Ontario,Ontario — provincial and local,General public services,25972.0
+2024,Ontario,Ontario — provincial and local,Defence,0.0
+2024,Ontario,Ontario — provincial and local,Public order and safety,14676.0
+2024,Ontario,Ontario — provincial and local,Economic affairs,31756.0
+2024,Ontario,Ontario — provincial and local,Environment,5496.0
+2024,Ontario,Ontario — provincial and local,Housing and community,3739.0
+2024,Ontario,Ontario — provincial and local,Health,92322.0
+2024,Ontario,Ontario — provincial and local,Recreation and culture,6255.0
+2024,Ontario,Ontario — provincial and local,Education,52725.0
+2024,Ontario,Ontario — provincial and local,Social protection,40691.0
+2008,Manitoba,Manitoba — provincial and local,General public services,2124.0
+2008,Manitoba,Manitoba — provincial and local,Defence,0.0
+2008,Manitoba,Manitoba — provincial and local,Public order and safety,717.0
+2008,Manitoba,Manitoba — provincial and local,Economic affairs,1146.0
+2008,Manitoba,Manitoba — provincial and local,Environment,217.0
+2008,Manitoba,Manitoba — provincial and local,Housing and community,303.0
+2008,Manitoba,Manitoba — provincial and local,Health,4791.0
+2008,Manitoba,Manitoba — provincial and local,Recreation and culture,224.0
+2008,Manitoba,Manitoba — provincial and local,Education,2577.0
+2008,Manitoba,Manitoba — provincial and local,Social protection,1569.0
+2009,Manitoba,Manitoba — provincial and local,General public services,1999.0
+2009,Manitoba,Manitoba — provincial and local,Defence,0.0
+2009,Manitoba,Manitoba — provincial and local,Public order and safety,904.0
+2009,Manitoba,Manitoba — provincial and local,Economic affairs,1186.0
+2009,Manitoba,Manitoba — provincial and local,Environment,228.0
+2009,Manitoba,Manitoba — provincial and local,Housing and community,322.0
+2009,Manitoba,Manitoba — provincial and local,Health,5136.0
+2009,Manitoba,Manitoba — provincial and local,Recreation and culture,225.0
+2009,Manitoba,Manitoba — provincial and local,Education,2683.0
+2009,Manitoba,Manitoba — provincial and local,Social protection,1627.0
+2010,Manitoba,Manitoba — provincial and local,General public services,1914.0
+2010,Manitoba,Manitoba — provincial and local,Defence,0.0
+2010,Manitoba,Manitoba — provincial and local,Public order and safety,864.0
+2010,Manitoba,Manitoba — provincial and local,Economic affairs,1348.0
+2010,Manitoba,Manitoba — provincial and local,Environment,227.0
+2010,Manitoba,Manitoba — provincial and local,Housing and community,338.0
+2010,Manitoba,Manitoba — provincial and local,Health,5419.0
+2010,Manitoba,Manitoba — provincial and local,Recreation and culture,226.0
+2010,Manitoba,Manitoba — provincial and local,Education,2723.0
+2010,Manitoba,Manitoba — provincial and local,Social protection,1686.0
+2011,Manitoba,Manitoba — provincial and local,General public services,2165.0
+2011,Manitoba,Manitoba — provincial and local,Defence,0.0
+2011,Manitoba,Manitoba — provincial and local,Public order and safety,1268.0
+2011,Manitoba,Manitoba — provincial and local,Economic affairs,1746.0
+2011,Manitoba,Manitoba — provincial and local,Environment,254.0
+2011,Manitoba,Manitoba — provincial and local,Housing and community,353.0
+2011,Manitoba,Manitoba — provincial and local,Health,5618.0
+2011,Manitoba,Manitoba — provincial and local,Recreation and culture,237.0
+2011,Manitoba,Manitoba — provincial and local,Education,2843.0
+2011,Manitoba,Manitoba — provincial and local,Social protection,1814.0
+2012,Manitoba,Manitoba — provincial and local,General public services,2166.0
+2012,Manitoba,Manitoba — provincial and local,Defence,0.0
+2012,Manitoba,Manitoba — provincial and local,Public order and safety,1066.0
+2012,Manitoba,Manitoba — provincial and local,Economic affairs,1308.0
+2012,Manitoba,Manitoba — provincial and local,Environment,247.0
+2012,Manitoba,Manitoba — provincial and local,Housing and community,339.0
+2012,Manitoba,Manitoba — provincial and local,Health,5798.0
+2012,Manitoba,Manitoba — provincial and local,Recreation and culture,234.0
+2012,Manitoba,Manitoba — provincial and local,Education,2989.0
+2012,Manitoba,Manitoba — provincial and local,Social protection,1869.0
+2013,Manitoba,Manitoba — provincial and local,General public services,2202.0
+2013,Manitoba,Manitoba — provincial and local,Defence,0.0
+2013,Manitoba,Manitoba — provincial and local,Public order and safety,1072.0
+2013,Manitoba,Manitoba — provincial and local,Economic affairs,1263.0
+2013,Manitoba,Manitoba — provincial and local,Environment,240.0
+2013,Manitoba,Manitoba — provincial and local,Housing and community,366.0
+2013,Manitoba,Manitoba — provincial and local,Health,6097.0
+2013,Manitoba,Manitoba — provincial and local,Recreation and culture,200.0
+2013,Manitoba,Manitoba — provincial and local,Education,3065.0
+2013,Manitoba,Manitoba — provincial and local,Social protection,1939.0
+2014,Manitoba,Manitoba — provincial and local,General public services,2169.0
+2014,Manitoba,Manitoba — provincial and local,Defence,0.0
+2014,Manitoba,Manitoba — provincial and local,Public order and safety,1080.0
+2014,Manitoba,Manitoba — provincial and local,Economic affairs,1363.0
+2014,Manitoba,Manitoba — provincial and local,Environment,256.0
+2014,Manitoba,Manitoba — provincial and local,Housing and community,376.0
+2014,Manitoba,Manitoba — provincial and local,Health,6387.0
+2014,Manitoba,Manitoba — provincial and local,Recreation and culture,259.0
+2014,Manitoba,Manitoba — provincial and local,Education,3161.0
+2014,Manitoba,Manitoba — provincial and local,Social protection,2062.0
+2015,Manitoba,Manitoba — provincial and local,General public services,2390.0
+2015,Manitoba,Manitoba — provincial and local,Defence,0.0
+2015,Manitoba,Manitoba — provincial and local,Public order and safety,1064.0
+2015,Manitoba,Manitoba — provincial and local,Economic affairs,1249.0
+2015,Manitoba,Manitoba — provincial and local,Environment,255.0
+2015,Manitoba,Manitoba — provincial and local,Housing and community,354.0
+2015,Manitoba,Manitoba — provincial and local,Health,6756.0
+2015,Manitoba,Manitoba — provincial and local,Recreation and culture,272.0
+2015,Manitoba,Manitoba — provincial and local,Education,3263.0
+2015,Manitoba,Manitoba — provincial and local,Social protection,2299.0
+2016,Manitoba,Manitoba — provincial and local,General public services,2496.0
+2016,Manitoba,Manitoba — provincial and local,Defence,0.0
+2016,Manitoba,Manitoba — provincial and local,Public order and safety,1142.0
+2016,Manitoba,Manitoba — provincial and local,Economic affairs,1176.0
+2016,Manitoba,Manitoba — provincial and local,Environment,263.0
+2016,Manitoba,Manitoba — provincial and local,Housing and community,391.0
+2016,Manitoba,Manitoba — provincial and local,Health,7246.0
+2016,Manitoba,Manitoba — provincial and local,Recreation and culture,279.0
+2016,Manitoba,Manitoba — provincial and local,Education,3375.0
+2016,Manitoba,Manitoba — provincial and local,Social protection,2266.0
+2017,Manitoba,Manitoba — provincial and local,General public services,2578.0
+2017,Manitoba,Manitoba — provincial and local,Defence,0.0
+2017,Manitoba,Manitoba — provincial and local,Public order and safety,1193.0
+2017,Manitoba,Manitoba — provincial and local,Economic affairs,1079.0
+2017,Manitoba,Manitoba — provincial and local,Environment,298.0
+2017,Manitoba,Manitoba — provincial and local,Housing and community,361.0
+2017,Manitoba,Manitoba — provincial and local,Health,7227.0
+2017,Manitoba,Manitoba — provincial and local,Recreation and culture,290.0
+2017,Manitoba,Manitoba — provincial and local,Education,3580.0
+2017,Manitoba,Manitoba — provincial and local,Social protection,2422.0
+2018,Manitoba,Manitoba — provincial and local,General public services,2728.0
+2018,Manitoba,Manitoba — provincial and local,Defence,0.0
+2018,Manitoba,Manitoba — provincial and local,Public order and safety,1217.0
+2018,Manitoba,Manitoba — provincial and local,Economic affairs,961.0
+2018,Manitoba,Manitoba — provincial and local,Environment,388.0
+2018,Manitoba,Manitoba — provincial and local,Housing and community,410.0
+2018,Manitoba,Manitoba — provincial and local,Health,7366.0
+2018,Manitoba,Manitoba — provincial and local,Recreation and culture,295.0
+2018,Manitoba,Manitoba — provincial and local,Education,3671.0
+2018,Manitoba,Manitoba — provincial and local,Social protection,2555.0
+2019,Manitoba,Manitoba — provincial and local,General public services,2896.0
+2019,Manitoba,Manitoba — provincial and local,Defence,0.0
+2019,Manitoba,Manitoba — provincial and local,Public order and safety,1262.0
+2019,Manitoba,Manitoba — provincial and local,Economic affairs,1156.0
+2019,Manitoba,Manitoba — provincial and local,Environment,343.0
+2019,Manitoba,Manitoba — provincial and local,Housing and community,401.0
+2019,Manitoba,Manitoba — provincial and local,Health,7628.0
+2019,Manitoba,Manitoba — provincial and local,Recreation and culture,376.0
+2019,Manitoba,Manitoba — provincial and local,Education,3546.0
+2019,Manitoba,Manitoba — provincial and local,Social protection,2655.0
+2020,Manitoba,Manitoba — provincial and local,General public services,3021.0
+2020,Manitoba,Manitoba — provincial and local,Defence,0.0
+2020,Manitoba,Manitoba — provincial and local,Public order and safety,1314.0
+2020,Manitoba,Manitoba — provincial and local,Economic affairs,1348.0
+2020,Manitoba,Manitoba — provincial and local,Environment,482.0
+2020,Manitoba,Manitoba — provincial and local,Housing and community,392.0
+2020,Manitoba,Manitoba — provincial and local,Health,8363.0
+2020,Manitoba,Manitoba — provincial and local,Recreation and culture,363.0
+2020,Manitoba,Manitoba — provincial and local,Education,3742.0
+2020,Manitoba,Manitoba — provincial and local,Social protection,2774.0
+2021,Manitoba,Manitoba — provincial and local,General public services,3182.0
+2021,Manitoba,Manitoba — provincial and local,Defence,0.0
+2021,Manitoba,Manitoba — provincial and local,Public order and safety,1312.0
+2021,Manitoba,Manitoba — provincial and local,Economic affairs,2044.0
+2021,Manitoba,Manitoba — provincial and local,Environment,357.0
+2021,Manitoba,Manitoba — provincial and local,Housing and community,401.0
+2021,Manitoba,Manitoba — provincial and local,Health,8587.0
+2021,Manitoba,Manitoba — provincial and local,Recreation and culture,336.0
+2021,Manitoba,Manitoba — provincial and local,Education,3967.0
+2021,Manitoba,Manitoba — provincial and local,Social protection,2738.0
+2022,Manitoba,Manitoba — provincial and local,General public services,3462.0
+2022,Manitoba,Manitoba — provincial and local,Defence,0.0
+2022,Manitoba,Manitoba — provincial and local,Public order and safety,1460.0
+2022,Manitoba,Manitoba — provincial and local,Economic affairs,1644.0
+2022,Manitoba,Manitoba — provincial and local,Environment,350.0
+2022,Manitoba,Manitoba — provincial and local,Housing and community,394.0
+2022,Manitoba,Manitoba — provincial and local,Health,8893.0
+2022,Manitoba,Manitoba — provincial and local,Recreation and culture,313.0
+2022,Manitoba,Manitoba — provincial and local,Education,4361.0
+2022,Manitoba,Manitoba — provincial and local,Social protection,3193.0
+2023,Manitoba,Manitoba — provincial and local,General public services,3453.0
+2023,Manitoba,Manitoba — provincial and local,Defence,0.0
+2023,Manitoba,Manitoba — provincial and local,Public order and safety,1739.0
+2023,Manitoba,Manitoba — provincial and local,Economic affairs,1828.0
+2023,Manitoba,Manitoba — provincial and local,Environment,334.0
+2023,Manitoba,Manitoba — provincial and local,Housing and community,412.0
+2023,Manitoba,Manitoba — provincial and local,Health,9823.0
+2023,Manitoba,Manitoba — provincial and local,Recreation and culture,415.0
+2023,Manitoba,Manitoba — provincial and local,Education,4555.0
+2023,Manitoba,Manitoba — provincial and local,Social protection,4047.0
+2024,Manitoba,Manitoba — provincial and local,General public services,3718.0
+2024,Manitoba,Manitoba — provincial and local,Defence,0.0
+2024,Manitoba,Manitoba — provincial and local,Public order and safety,1661.0
+2024,Manitoba,Manitoba — provincial and local,Economic affairs,1785.0
+2024,Manitoba,Manitoba — provincial and local,Environment,432.0
+2024,Manitoba,Manitoba — provincial and local,Housing and community,443.0
+2024,Manitoba,Manitoba — provincial and local,Health,10483.0
+2024,Manitoba,Manitoba — provincial and local,Recreation and culture,318.0
+2024,Manitoba,Manitoba — provincial and local,Education,4718.0
+2024,Manitoba,Manitoba — provincial and local,Social protection,4342.0
+2008,Saskatchewan,Saskatchewan — provincial and local,General public services,1706.0
+2008,Saskatchewan,Saskatchewan — provincial and local,Defence,0.0
+2008,Saskatchewan,Saskatchewan — provincial and local,Public order and safety,683.0
+2008,Saskatchewan,Saskatchewan — provincial and local,Economic affairs,1414.0
+2008,Saskatchewan,Saskatchewan — provincial and local,Environment,263.0
+2008,Saskatchewan,Saskatchewan — provincial and local,Housing and community,245.0
+2008,Saskatchewan,Saskatchewan — provincial and local,Health,3843.0
+2008,Saskatchewan,Saskatchewan — provincial and local,Recreation and culture,314.0
+2008,Saskatchewan,Saskatchewan — provincial and local,Education,2619.0
+2008,Saskatchewan,Saskatchewan — provincial and local,Social protection,1778.0
+2009,Saskatchewan,Saskatchewan — provincial and local,General public services,1803.0
+2009,Saskatchewan,Saskatchewan — provincial and local,Defence,0.0
+2009,Saskatchewan,Saskatchewan — provincial and local,Public order and safety,745.0
+2009,Saskatchewan,Saskatchewan — provincial and local,Economic affairs,1321.0
+2009,Saskatchewan,Saskatchewan — provincial and local,Environment,269.0
+2009,Saskatchewan,Saskatchewan — provincial and local,Housing and community,285.0
+2009,Saskatchewan,Saskatchewan — provincial and local,Health,4264.0
+2009,Saskatchewan,Saskatchewan — provincial and local,Recreation and culture,338.0
+2009,Saskatchewan,Saskatchewan — provincial and local,Education,2810.0
+2009,Saskatchewan,Saskatchewan — provincial and local,Social protection,1965.0
+2010,Saskatchewan,Saskatchewan — provincial and local,General public services,1767.0
+2010,Saskatchewan,Saskatchewan — provincial and local,Defence,0.0
+2010,Saskatchewan,Saskatchewan — provincial and local,Public order and safety,846.0
+2010,Saskatchewan,Saskatchewan — provincial and local,Economic affairs,2014.0
+2010,Saskatchewan,Saskatchewan — provincial and local,Environment,275.0
+2010,Saskatchewan,Saskatchewan — provincial and local,Housing and community,323.0
+2010,Saskatchewan,Saskatchewan — provincial and local,Health,4489.0
+2010,Saskatchewan,Saskatchewan — provincial and local,Recreation and culture,335.0
+2010,Saskatchewan,Saskatchewan — provincial and local,Education,2970.0
+2010,Saskatchewan,Saskatchewan — provincial and local,Social protection,2055.0
+2011,Saskatchewan,Saskatchewan — provincial and local,General public services,1756.0
+2011,Saskatchewan,Saskatchewan — provincial and local,Defence,0.0
+2011,Saskatchewan,Saskatchewan — provincial and local,Public order and safety,989.0
+2011,Saskatchewan,Saskatchewan — provincial and local,Economic affairs,1877.0
+2011,Saskatchewan,Saskatchewan — provincial and local,Environment,327.0
+2011,Saskatchewan,Saskatchewan — provincial and local,Housing and community,306.0
+2011,Saskatchewan,Saskatchewan — provincial and local,Health,4921.0
+2011,Saskatchewan,Saskatchewan — provincial and local,Recreation and culture,329.0
+2011,Saskatchewan,Saskatchewan — provincial and local,Education,3313.0
+2011,Saskatchewan,Saskatchewan — provincial and local,Social protection,2301.0
+2012,Saskatchewan,Saskatchewan — provincial and local,General public services,1844.0
+2012,Saskatchewan,Saskatchewan — provincial and local,Defence,0.0
+2012,Saskatchewan,Saskatchewan — provincial and local,Public order and safety,972.0
+2012,Saskatchewan,Saskatchewan — provincial and local,Economic affairs,1809.0
+2012,Saskatchewan,Saskatchewan — provincial and local,Environment,347.0
+2012,Saskatchewan,Saskatchewan — provincial and local,Housing and community,297.0
+2012,Saskatchewan,Saskatchewan — provincial and local,Health,4866.0
+2012,Saskatchewan,Saskatchewan — provincial and local,Recreation and culture,356.0
+2012,Saskatchewan,Saskatchewan — provincial and local,Education,3371.0
+2012,Saskatchewan,Saskatchewan — provincial and local,Social protection,2258.0
+2013,Saskatchewan,Saskatchewan — provincial and local,General public services,1811.0
+2013,Saskatchewan,Saskatchewan — provincial and local,Defence,0.0
+2013,Saskatchewan,Saskatchewan — provincial and local,Public order and safety,952.0
+2013,Saskatchewan,Saskatchewan — provincial and local,Economic affairs,1413.0
+2013,Saskatchewan,Saskatchewan — provincial and local,Environment,345.0
+2013,Saskatchewan,Saskatchewan — provincial and local,Housing and community,339.0
+2013,Saskatchewan,Saskatchewan — provincial and local,Health,4924.0
+2013,Saskatchewan,Saskatchewan — provincial and local,Recreation and culture,376.0
+2013,Saskatchewan,Saskatchewan — provincial and local,Education,3509.0
+2013,Saskatchewan,Saskatchewan — provincial and local,Social protection,2437.0
+2014,Saskatchewan,Saskatchewan — provincial and local,General public services,1717.0
+2014,Saskatchewan,Saskatchewan — provincial and local,Defence,0.0
+2014,Saskatchewan,Saskatchewan — provincial and local,Public order and safety,1059.0
+2014,Saskatchewan,Saskatchewan — provincial and local,Economic affairs,1322.0
+2014,Saskatchewan,Saskatchewan — provincial and local,Environment,352.0
+2014,Saskatchewan,Saskatchewan — provincial and local,Housing and community,371.0
+2014,Saskatchewan,Saskatchewan — provincial and local,Health,5130.0
+2014,Saskatchewan,Saskatchewan — provincial and local,Recreation and culture,374.0
+2014,Saskatchewan,Saskatchewan — provincial and local,Education,3654.0
+2014,Saskatchewan,Saskatchewan — provincial and local,Social protection,2472.0
+2015,Saskatchewan,Saskatchewan — provincial and local,General public services,1684.0
+2015,Saskatchewan,Saskatchewan — provincial and local,Defence,0.0
+2015,Saskatchewan,Saskatchewan — provincial and local,Public order and safety,1042.0
+2015,Saskatchewan,Saskatchewan — provincial and local,Economic affairs,1444.0
+2015,Saskatchewan,Saskatchewan — provincial and local,Environment,356.0
+2015,Saskatchewan,Saskatchewan — provincial and local,Housing and community,381.0
+2015,Saskatchewan,Saskatchewan — provincial and local,Health,5468.0
+2015,Saskatchewan,Saskatchewan — provincial and local,Recreation and culture,390.0
+2015,Saskatchewan,Saskatchewan — provincial and local,Education,3753.0
+2015,Saskatchewan,Saskatchewan — provincial and local,Social protection,2683.0
+2016,Saskatchewan,Saskatchewan — provincial and local,General public services,1914.0
+2016,Saskatchewan,Saskatchewan — provincial and local,Defence,0.0
+2016,Saskatchewan,Saskatchewan — provincial and local,Public order and safety,1057.0
+2016,Saskatchewan,Saskatchewan — provincial and local,Economic affairs,1853.0
+2016,Saskatchewan,Saskatchewan — provincial and local,Environment,301.0
+2016,Saskatchewan,Saskatchewan — provincial and local,Housing and community,347.0
+2016,Saskatchewan,Saskatchewan — provincial and local,Health,5545.0
+2016,Saskatchewan,Saskatchewan — provincial and local,Recreation and culture,358.0
+2016,Saskatchewan,Saskatchewan — provincial and local,Education,3785.0
+2016,Saskatchewan,Saskatchewan — provincial and local,Social protection,2676.0
+2017,Saskatchewan,Saskatchewan — provincial and local,General public services,1981.0
+2017,Saskatchewan,Saskatchewan — provincial and local,Defence,0.0
+2017,Saskatchewan,Saskatchewan — provincial and local,Public order and safety,1048.0
+2017,Saskatchewan,Saskatchewan — provincial and local,Economic affairs,1239.0
+2017,Saskatchewan,Saskatchewan — provincial and local,Environment,342.0
+2017,Saskatchewan,Saskatchewan — provincial and local,Housing and community,317.0
+2017,Saskatchewan,Saskatchewan — provincial and local,Health,5644.0
+2017,Saskatchewan,Saskatchewan — provincial and local,Recreation and culture,361.0
+2017,Saskatchewan,Saskatchewan — provincial and local,Education,3856.0
+2017,Saskatchewan,Saskatchewan — provincial and local,Social protection,2703.0
+2018,Saskatchewan,Saskatchewan — provincial and local,General public services,2059.0
+2018,Saskatchewan,Saskatchewan — provincial and local,Defence,0.0
+2018,Saskatchewan,Saskatchewan — provincial and local,Public order and safety,1104.0
+2018,Saskatchewan,Saskatchewan — provincial and local,Economic affairs,1541.0
+2018,Saskatchewan,Saskatchewan — provincial and local,Environment,324.0
+2018,Saskatchewan,Saskatchewan — provincial and local,Housing and community,444.0
+2018,Saskatchewan,Saskatchewan — provincial and local,Health,5883.0
+2018,Saskatchewan,Saskatchewan — provincial and local,Recreation and culture,396.0
+2018,Saskatchewan,Saskatchewan — provincial and local,Education,3857.0
+2018,Saskatchewan,Saskatchewan — provincial and local,Social protection,2800.0
+2019,Saskatchewan,Saskatchewan — provincial and local,General public services,2178.0
+2019,Saskatchewan,Saskatchewan — provincial and local,Defence,0.0
+2019,Saskatchewan,Saskatchewan — provincial and local,Public order and safety,1121.0
+2019,Saskatchewan,Saskatchewan — provincial and local,Economic affairs,1571.0
+2019,Saskatchewan,Saskatchewan — provincial and local,Environment,344.0
+2019,Saskatchewan,Saskatchewan — provincial and local,Housing and community,429.0
+2019,Saskatchewan,Saskatchewan — provincial and local,Health,6099.0
+2019,Saskatchewan,Saskatchewan — provincial and local,Recreation and culture,458.0
+2019,Saskatchewan,Saskatchewan — provincial and local,Education,3950.0
+2019,Saskatchewan,Saskatchewan — provincial and local,Social protection,2864.0
+2020,Saskatchewan,Saskatchewan — provincial and local,General public services,2033.0
+2020,Saskatchewan,Saskatchewan — provincial and local,Defence,0.0
+2020,Saskatchewan,Saskatchewan — provincial and local,Public order and safety,1132.0
+2020,Saskatchewan,Saskatchewan — provincial and local,Economic affairs,1843.0
+2020,Saskatchewan,Saskatchewan — provincial and local,Environment,346.0
+2020,Saskatchewan,Saskatchewan — provincial and local,Housing and community,483.0
+2020,Saskatchewan,Saskatchewan — provincial and local,Health,6439.0
+2020,Saskatchewan,Saskatchewan — provincial and local,Recreation and culture,441.0
+2020,Saskatchewan,Saskatchewan — provincial and local,Education,3874.0
+2020,Saskatchewan,Saskatchewan — provincial and local,Social protection,3120.0
+2021,Saskatchewan,Saskatchewan — provincial and local,General public services,1975.0
+2021,Saskatchewan,Saskatchewan — provincial and local,Defence,0.0
+2021,Saskatchewan,Saskatchewan — provincial and local,Public order and safety,1232.0
+2021,Saskatchewan,Saskatchewan — provincial and local,Economic affairs,4905.0
+2021,Saskatchewan,Saskatchewan — provincial and local,Environment,396.0
+2021,Saskatchewan,Saskatchewan — provincial and local,Housing and community,561.0
+2021,Saskatchewan,Saskatchewan — provincial and local,Health,6845.0
+2021,Saskatchewan,Saskatchewan — provincial and local,Recreation and culture,479.0
+2021,Saskatchewan,Saskatchewan — provincial and local,Education,4099.0
+2021,Saskatchewan,Saskatchewan — provincial and local,Social protection,3190.0
+2022,Saskatchewan,Saskatchewan — provincial and local,General public services,2142.0
+2022,Saskatchewan,Saskatchewan — provincial and local,Defence,0.0
+2022,Saskatchewan,Saskatchewan — provincial and local,Public order and safety,1245.0
+2022,Saskatchewan,Saskatchewan — provincial and local,Economic affairs,3413.0
+2022,Saskatchewan,Saskatchewan — provincial and local,Environment,383.0
+2022,Saskatchewan,Saskatchewan — provincial and local,Housing and community,466.0
+2022,Saskatchewan,Saskatchewan — provincial and local,Health,6889.0
+2022,Saskatchewan,Saskatchewan — provincial and local,Recreation and culture,508.0
+2022,Saskatchewan,Saskatchewan — provincial and local,Education,4181.0
+2022,Saskatchewan,Saskatchewan — provincial and local,Social protection,3987.0
+2023,Saskatchewan,Saskatchewan — provincial and local,General public services,2197.0
+2023,Saskatchewan,Saskatchewan — provincial and local,Defence,0.0
+2023,Saskatchewan,Saskatchewan — provincial and local,Public order and safety,1538.0
+2023,Saskatchewan,Saskatchewan — provincial and local,Economic affairs,3897.0
+2023,Saskatchewan,Saskatchewan — provincial and local,Environment,372.0
+2023,Saskatchewan,Saskatchewan — provincial and local,Housing and community,504.0
+2023,Saskatchewan,Saskatchewan — provincial and local,Health,7662.0
+2023,Saskatchewan,Saskatchewan — provincial and local,Recreation and culture,479.0
+2023,Saskatchewan,Saskatchewan — provincial and local,Education,4426.0
+2023,Saskatchewan,Saskatchewan — provincial and local,Social protection,3796.0
+2024,Saskatchewan,Saskatchewan — provincial and local,General public services,2128.0
+2024,Saskatchewan,Saskatchewan — provincial and local,Defence,0.0
+2024,Saskatchewan,Saskatchewan — provincial and local,Public order and safety,1705.0
+2024,Saskatchewan,Saskatchewan — provincial and local,Economic affairs,3132.0
+2024,Saskatchewan,Saskatchewan — provincial and local,Environment,479.0
+2024,Saskatchewan,Saskatchewan — provincial and local,Housing and community,490.0
+2024,Saskatchewan,Saskatchewan — provincial and local,Health,8290.0
+2024,Saskatchewan,Saskatchewan — provincial and local,Recreation and culture,536.0
+2024,Saskatchewan,Saskatchewan — provincial and local,Education,4543.0
+2024,Saskatchewan,Saskatchewan — provincial and local,Social protection,4261.0
+2008,Alberta,Alberta — provincial and local,General public services,2692.0
+2008,Alberta,Alberta — provincial and local,Defence,0.0
+2008,Alberta,Alberta — provincial and local,Public order and safety,2120.0
+2008,Alberta,Alberta — provincial and local,Economic affairs,6062.0
+2008,Alberta,Alberta — provincial and local,Environment,1205.0
+2008,Alberta,Alberta — provincial and local,Housing and community,1097.0
+2008,Alberta,Alberta — provincial and local,Health,13021.0
+2008,Alberta,Alberta — provincial and local,Recreation and culture,1680.0
+2008,Alberta,Alberta — provincial and local,Education,9241.0
+2008,Alberta,Alberta — provincial and local,Social protection,5202.0
+2009,Alberta,Alberta — provincial and local,General public services,2800.0
+2009,Alberta,Alberta — provincial and local,Defence,0.0
+2009,Alberta,Alberta — provincial and local,Public order and safety,2220.0
+2009,Alberta,Alberta — provincial and local,Economic affairs,6374.0
+2009,Alberta,Alberta — provincial and local,Environment,1262.0
+2009,Alberta,Alberta — provincial and local,Housing and community,1081.0
+2009,Alberta,Alberta — provincial and local,Health,14168.0
+2009,Alberta,Alberta — provincial and local,Recreation and culture,1414.0
+2009,Alberta,Alberta — provincial and local,Education,10010.0
+2009,Alberta,Alberta — provincial and local,Social protection,5056.0
+2010,Alberta,Alberta — provincial and local,General public services,2855.0
+2010,Alberta,Alberta — provincial and local,Defence,0.0
+2010,Alberta,Alberta — provincial and local,Public order and safety,2312.0
+2010,Alberta,Alberta — provincial and local,Economic affairs,6313.0
+2010,Alberta,Alberta — provincial and local,Environment,1245.0
+2010,Alberta,Alberta — provincial and local,Housing and community,1084.0
+2010,Alberta,Alberta — provincial and local,Health,15189.0
+2010,Alberta,Alberta — provincial and local,Recreation and culture,1458.0
+2010,Alberta,Alberta — provincial and local,Education,10229.0
+2010,Alberta,Alberta — provincial and local,Social protection,5600.0
+2011,Alberta,Alberta — provincial and local,General public services,3049.0
+2011,Alberta,Alberta — provincial and local,Defence,0.0
+2011,Alberta,Alberta — provincial and local,Public order and safety,2487.0
+2011,Alberta,Alberta — provincial and local,Economic affairs,5880.0
+2011,Alberta,Alberta — provincial and local,Environment,1478.0
+2011,Alberta,Alberta — provincial and local,Housing and community,954.0
+2011,Alberta,Alberta — provincial and local,Health,16187.0
+2011,Alberta,Alberta — provincial and local,Recreation and culture,1487.0
+2011,Alberta,Alberta — provincial and local,Education,11022.0
+2011,Alberta,Alberta — provincial and local,Social protection,5604.0
+2012,Alberta,Alberta — provincial and local,General public services,3203.0
+2012,Alberta,Alberta — provincial and local,Defence,0.0
+2012,Alberta,Alberta — provincial and local,Public order and safety,2579.0
+2012,Alberta,Alberta — provincial and local,Economic affairs,6536.0
+2012,Alberta,Alberta — provincial and local,Environment,1630.0
+2012,Alberta,Alberta — provincial and local,Housing and community,934.0
+2012,Alberta,Alberta — provincial and local,Health,17159.0
+2012,Alberta,Alberta — provincial and local,Recreation and culture,1536.0
+2012,Alberta,Alberta — provincial and local,Education,11528.0
+2012,Alberta,Alberta — provincial and local,Social protection,5803.0
+2013,Alberta,Alberta — provincial and local,General public services,3498.0
+2013,Alberta,Alberta — provincial and local,Defence,0.0
+2013,Alberta,Alberta — provincial and local,Public order and safety,2758.0
+2013,Alberta,Alberta — provincial and local,Economic affairs,6766.0
+2013,Alberta,Alberta — provincial and local,Environment,1579.0
+2013,Alberta,Alberta — provincial and local,Housing and community,1015.0
+2013,Alberta,Alberta — provincial and local,Health,18189.0
+2013,Alberta,Alberta — provincial and local,Recreation and culture,1646.0
+2013,Alberta,Alberta — provincial and local,Education,11719.0
+2013,Alberta,Alberta — provincial and local,Social protection,6625.0
+2014,Alberta,Alberta — provincial and local,General public services,2981.0
+2014,Alberta,Alberta — provincial and local,Defence,0.0
+2014,Alberta,Alberta — provincial and local,Public order and safety,2857.0
+2014,Alberta,Alberta — provincial and local,Economic affairs,7314.0
+2014,Alberta,Alberta — provincial and local,Environment,1612.0
+2014,Alberta,Alberta — provincial and local,Housing and community,1053.0
+2014,Alberta,Alberta — provincial and local,Health,19115.0
+2014,Alberta,Alberta — provincial and local,Recreation and culture,1700.0
+2014,Alberta,Alberta — provincial and local,Education,12130.0
+2014,Alberta,Alberta — provincial and local,Social protection,5994.0
+2015,Alberta,Alberta — provincial and local,General public services,3832.0
+2015,Alberta,Alberta — provincial and local,Defence,0.0
+2015,Alberta,Alberta — provincial and local,Public order and safety,2940.0
+2015,Alberta,Alberta — provincial and local,Economic affairs,7565.0
+2015,Alberta,Alberta — provincial and local,Environment,1935.0
+2015,Alberta,Alberta — provincial and local,Housing and community,1230.0
+2015,Alberta,Alberta — provincial and local,Health,20145.0
+2015,Alberta,Alberta — provincial and local,Recreation and culture,1730.0
+2015,Alberta,Alberta — provincial and local,Education,12501.0
+2015,Alberta,Alberta — provincial and local,Social protection,6284.0
+2016,Alberta,Alberta — provincial and local,General public services,4105.0
+2016,Alberta,Alberta — provincial and local,Defence,0.0
+2016,Alberta,Alberta — provincial and local,Public order and safety,3379.0
+2016,Alberta,Alberta — provincial and local,Economic affairs,8691.0
+2016,Alberta,Alberta — provincial and local,Environment,2738.0
+2016,Alberta,Alberta — provincial and local,Housing and community,1252.0
+2016,Alberta,Alberta — provincial and local,Health,20821.0
+2016,Alberta,Alberta — provincial and local,Recreation and culture,1898.0
+2016,Alberta,Alberta — provincial and local,Education,12956.0
+2016,Alberta,Alberta — provincial and local,Social protection,6947.0
+2017,Alberta,Alberta — provincial and local,General public services,4754.0
+2017,Alberta,Alberta — provincial and local,Defence,0.0
+2017,Alberta,Alberta — provincial and local,Public order and safety,3030.0
+2017,Alberta,Alberta — provincial and local,Economic affairs,9269.0
+2017,Alberta,Alberta — provincial and local,Environment,1715.0
+2017,Alberta,Alberta — provincial and local,Housing and community,1227.0
+2017,Alberta,Alberta — provincial and local,Health,21364.0
+2017,Alberta,Alberta — provincial and local,Recreation and culture,1967.0
+2017,Alberta,Alberta — provincial and local,Education,13302.0
+2017,Alberta,Alberta — provincial and local,Social protection,7524.0
+2018,Alberta,Alberta — provincial and local,General public services,5688.0
+2018,Alberta,Alberta — provincial and local,Defence,0.0
+2018,Alberta,Alberta — provincial and local,Public order and safety,3090.0
+2018,Alberta,Alberta — provincial and local,Economic affairs,9683.0
+2018,Alberta,Alberta — provincial and local,Environment,1749.0
+2018,Alberta,Alberta — provincial and local,Housing and community,1274.0
+2018,Alberta,Alberta — provincial and local,Health,22126.0
+2018,Alberta,Alberta — provincial and local,Recreation and culture,1947.0
+2018,Alberta,Alberta — provincial and local,Education,13431.0
+2018,Alberta,Alberta — provincial and local,Social protection,8210.0
+2019,Alberta,Alberta — provincial and local,General public services,5648.0
+2019,Alberta,Alberta — provincial and local,Defence,0.0
+2019,Alberta,Alberta — provincial and local,Public order and safety,3468.0
+2019,Alberta,Alberta — provincial and local,Economic affairs,11191.0
+2019,Alberta,Alberta — provincial and local,Environment,1782.0
+2019,Alberta,Alberta — provincial and local,Housing and community,1277.0
+2019,Alberta,Alberta — provincial and local,Health,22677.0
+2019,Alberta,Alberta — provincial and local,Recreation and culture,1965.0
+2019,Alberta,Alberta — provincial and local,Education,13536.0
+2019,Alberta,Alberta — provincial and local,Social protection,8288.0
+2020,Alberta,Alberta — provincial and local,General public services,5994.0
+2020,Alberta,Alberta — provincial and local,Defence,0.0
+2020,Alberta,Alberta — provincial and local,Public order and safety,3449.0
+2020,Alberta,Alberta — provincial and local,Economic affairs,10551.0
+2020,Alberta,Alberta — provincial and local,Environment,1268.0
+2020,Alberta,Alberta — provincial and local,Housing and community,1251.0
+2020,Alberta,Alberta — provincial and local,Health,23885.0
+2020,Alberta,Alberta — provincial and local,Recreation and culture,1728.0
+2020,Alberta,Alberta — provincial and local,Education,12524.0
+2020,Alberta,Alberta — provincial and local,Social protection,8482.0
+2021,Alberta,Alberta — provincial and local,General public services,6690.0
+2021,Alberta,Alberta — provincial and local,Defence,0.0
+2021,Alberta,Alberta — provincial and local,Public order and safety,3546.0
+2021,Alberta,Alberta — provincial and local,Economic affairs,12710.0
+2021,Alberta,Alberta — provincial and local,Environment,1408.0
+2021,Alberta,Alberta — provincial and local,Housing and community,1242.0
+2021,Alberta,Alberta — provincial and local,Health,24120.0
+2021,Alberta,Alberta — provincial and local,Recreation and culture,1749.0
+2021,Alberta,Alberta — provincial and local,Education,12993.0
+2021,Alberta,Alberta — provincial and local,Social protection,8851.0
+2022,Alberta,Alberta — provincial and local,General public services,7091.0
+2022,Alberta,Alberta — provincial and local,Defence,0.0
+2022,Alberta,Alberta — provincial and local,Public order and safety,3697.0
+2022,Alberta,Alberta — provincial and local,Economic affairs,11426.0
+2022,Alberta,Alberta — provincial and local,Environment,1296.0
+2022,Alberta,Alberta — provincial and local,Housing and community,1397.0
+2022,Alberta,Alberta — provincial and local,Health,24927.0
+2022,Alberta,Alberta — provincial and local,Recreation and culture,1910.0
+2022,Alberta,Alberta — provincial and local,Education,13686.0
+2022,Alberta,Alberta — provincial and local,Social protection,10097.0
+2023,Alberta,Alberta — provincial and local,General public services,7237.0
+2023,Alberta,Alberta — provincial and local,Defence,0.0
+2023,Alberta,Alberta — provincial and local,Public order and safety,4017.0
+2023,Alberta,Alberta — provincial and local,Economic affairs,11938.0
+2023,Alberta,Alberta — provincial and local,Environment,1347.0
+2023,Alberta,Alberta — provincial and local,Housing and community,1491.0
+2023,Alberta,Alberta — provincial and local,Health,26834.0
+2023,Alberta,Alberta — provincial and local,Recreation and culture,2030.0
+2023,Alberta,Alberta — provincial and local,Education,14499.0
+2023,Alberta,Alberta — provincial and local,Social protection,11457.0
+2024,Alberta,Alberta — provincial and local,General public services,8320.0
+2024,Alberta,Alberta — provincial and local,Defence,0.0
+2024,Alberta,Alberta — provincial and local,Public order and safety,4300.0
+2024,Alberta,Alberta — provincial and local,Economic affairs,11693.0
+2024,Alberta,Alberta — provincial and local,Environment,1401.0
+2024,Alberta,Alberta — provincial and local,Housing and community,1605.0
+2024,Alberta,Alberta — provincial and local,Health,28401.0
+2024,Alberta,Alberta — provincial and local,Recreation and culture,2154.0
+2024,Alberta,Alberta — provincial and local,Education,15508.0
+2024,Alberta,Alberta — provincial and local,Social protection,11658.0
+2008,British Columbia,British Columbia — provincial and local,General public services,3998.0
+2008,British Columbia,British Columbia — provincial and local,Defence,0.0
+2008,British Columbia,British Columbia — provincial and local,Public order and safety,2781.0
+2008,British Columbia,British Columbia — provincial and local,Economic affairs,3886.0
+2008,British Columbia,British Columbia — provincial and local,Environment,1102.0
+2008,British Columbia,British Columbia — provincial and local,Housing and community,1033.0
+2008,British Columbia,British Columbia — provincial and local,Health,15695.0
+2008,British Columbia,British Columbia — provincial and local,Recreation and culture,1731.0
+2008,British Columbia,British Columbia — provincial and local,Education,8433.0
+2008,British Columbia,British Columbia — provincial and local,Social protection,5400.0
+2009,British Columbia,British Columbia — provincial and local,General public services,4561.0
+2009,British Columbia,British Columbia — provincial and local,Defence,0.0
+2009,British Columbia,British Columbia — provincial and local,Public order and safety,2870.0
+2009,British Columbia,British Columbia — provincial and local,Economic affairs,3887.0
+2009,British Columbia,British Columbia — provincial and local,Environment,1049.0
+2009,British Columbia,British Columbia — provincial and local,Housing and community,1018.0
+2009,British Columbia,British Columbia — provincial and local,Health,16294.0
+2009,British Columbia,British Columbia — provincial and local,Recreation and culture,1553.0
+2009,British Columbia,British Columbia — provincial and local,Education,8580.0
+2009,British Columbia,British Columbia — provincial and local,Social protection,5468.0
+2010,British Columbia,British Columbia — provincial and local,General public services,4960.0
+2010,British Columbia,British Columbia — provincial and local,Defence,0.0
+2010,British Columbia,British Columbia — provincial and local,Public order and safety,2929.0
+2010,British Columbia,British Columbia — provincial and local,Economic affairs,3670.0
+2010,British Columbia,British Columbia — provincial and local,Environment,1087.0
+2010,British Columbia,British Columbia — provincial and local,Housing and community,1042.0
+2010,British Columbia,British Columbia — provincial and local,Health,16843.0
+2010,British Columbia,British Columbia — provincial and local,Recreation and culture,1530.0
+2010,British Columbia,British Columbia — provincial and local,Education,8592.0
+2010,British Columbia,British Columbia — provincial and local,Social protection,5664.0
+2011,British Columbia,British Columbia — provincial and local,General public services,6779.0
+2011,British Columbia,British Columbia — provincial and local,Defence,0.0
+2011,British Columbia,British Columbia — provincial and local,Public order and safety,2878.0
+2011,British Columbia,British Columbia — provincial and local,Economic affairs,3492.0
+2011,British Columbia,British Columbia — provincial and local,Environment,1158.0
+2011,British Columbia,British Columbia — provincial and local,Housing and community,1061.0
+2011,British Columbia,British Columbia — provincial and local,Health,17847.0
+2011,British Columbia,British Columbia — provincial and local,Recreation and culture,1644.0
+2011,British Columbia,British Columbia — provincial and local,Education,8742.0
+2011,British Columbia,British Columbia — provincial and local,Social protection,6176.0
+2012,British Columbia,British Columbia — provincial and local,General public services,5171.0
+2012,British Columbia,British Columbia — provincial and local,Defence,0.0
+2012,British Columbia,British Columbia — provincial and local,Public order and safety,2946.0
+2012,British Columbia,British Columbia — provincial and local,Economic affairs,3703.0
+2012,British Columbia,British Columbia — provincial and local,Environment,1169.0
+2012,British Columbia,British Columbia — provincial and local,Housing and community,1112.0
+2012,British Columbia,British Columbia — provincial and local,Health,18380.0
+2012,British Columbia,British Columbia — provincial and local,Recreation and culture,1936.0
+2012,British Columbia,British Columbia — provincial and local,Education,9070.0
+2012,British Columbia,British Columbia — provincial and local,Social protection,6373.0
+2013,British Columbia,British Columbia — provincial and local,General public services,5528.0
+2013,British Columbia,British Columbia — provincial and local,Defence,0.0
+2013,British Columbia,British Columbia — provincial and local,Public order and safety,2983.0
+2013,British Columbia,British Columbia — provincial and local,Economic affairs,3773.0
+2013,British Columbia,British Columbia — provincial and local,Environment,1154.0
+2013,British Columbia,British Columbia — provincial and local,Housing and community,1099.0
+2013,British Columbia,British Columbia — provincial and local,Health,18998.0
+2013,British Columbia,British Columbia — provincial and local,Recreation and culture,1804.0
+2013,British Columbia,British Columbia — provincial and local,Education,8967.0
+2013,British Columbia,British Columbia — provincial and local,Social protection,6061.0
+2014,British Columbia,British Columbia — provincial and local,General public services,5789.0
+2014,British Columbia,British Columbia — provincial and local,Defence,0.0
+2014,British Columbia,British Columbia — provincial and local,Public order and safety,3086.0
+2014,British Columbia,British Columbia — provincial and local,Economic affairs,3991.0
+2014,British Columbia,British Columbia — provincial and local,Environment,1239.0
+2014,British Columbia,British Columbia — provincial and local,Housing and community,1142.0
+2014,British Columbia,British Columbia — provincial and local,Health,19416.0
+2014,British Columbia,British Columbia — provincial and local,Recreation and culture,1804.0
+2014,British Columbia,British Columbia — provincial and local,Education,9189.0
+2014,British Columbia,British Columbia — provincial and local,Social protection,5983.0
+2015,British Columbia,British Columbia — provincial and local,General public services,6251.0
+2015,British Columbia,British Columbia — provincial and local,Defence,0.0
+2015,British Columbia,British Columbia — provincial and local,Public order and safety,3187.0
+2015,British Columbia,British Columbia — provincial and local,Economic affairs,3962.0
+2015,British Columbia,British Columbia — provincial and local,Environment,1259.0
+2015,British Columbia,British Columbia — provincial and local,Housing and community,1219.0
+2015,British Columbia,British Columbia — provincial and local,Health,20463.0
+2015,British Columbia,British Columbia — provincial and local,Recreation and culture,2062.0
+2015,British Columbia,British Columbia — provincial and local,Education,9596.0
+2015,British Columbia,British Columbia — provincial and local,Social protection,6149.0
+2016,British Columbia,British Columbia — provincial and local,General public services,6360.0
+2016,British Columbia,British Columbia — provincial and local,Defence,0.0
+2016,British Columbia,British Columbia — provincial and local,Public order and safety,3378.0
+2016,British Columbia,British Columbia — provincial and local,Economic affairs,3684.0
+2016,British Columbia,British Columbia — provincial and local,Environment,1282.0
+2016,British Columbia,British Columbia — provincial and local,Housing and community,1722.0
+2016,British Columbia,British Columbia — provincial and local,Health,21235.0
+2016,British Columbia,British Columbia — provincial and local,Recreation and culture,1939.0
+2016,British Columbia,British Columbia — provincial and local,Education,9823.0
+2016,British Columbia,British Columbia — provincial and local,Social protection,6328.0
+2017,British Columbia,British Columbia — provincial and local,General public services,6566.0
+2017,British Columbia,British Columbia — provincial and local,Defence,0.0
+2017,British Columbia,British Columbia — provincial and local,Public order and safety,3749.0
+2017,British Columbia,British Columbia — provincial and local,Economic affairs,4114.0
+2017,British Columbia,British Columbia — provincial and local,Environment,1374.0
+2017,British Columbia,British Columbia — provincial and local,Housing and community,1316.0
+2017,British Columbia,British Columbia — provincial and local,Health,21494.0
+2017,British Columbia,British Columbia — provincial and local,Recreation and culture,2377.0
+2017,British Columbia,British Columbia — provincial and local,Education,10448.0
+2017,British Columbia,British Columbia — provincial and local,Social protection,6873.0
+2018,British Columbia,British Columbia — provincial and local,General public services,6565.0
+2018,British Columbia,British Columbia — provincial and local,Defence,0.0
+2018,British Columbia,British Columbia — provincial and local,Public order and safety,3896.0
+2018,British Columbia,British Columbia — provincial and local,Economic affairs,4379.0
+2018,British Columbia,British Columbia — provincial and local,Environment,1498.0
+2018,British Columbia,British Columbia — provincial and local,Housing and community,1382.0
+2018,British Columbia,British Columbia — provincial and local,Health,22887.0
+2018,British Columbia,British Columbia — provincial and local,Recreation and culture,2662.0
+2018,British Columbia,British Columbia — provincial and local,Education,11062.0
+2018,British Columbia,British Columbia — provincial and local,Social protection,8129.0
+2019,British Columbia,British Columbia — provincial and local,General public services,7202.0
+2019,British Columbia,British Columbia — provincial and local,Defence,0.0
+2019,British Columbia,British Columbia — provincial and local,Public order and safety,4037.0
+2019,British Columbia,British Columbia — provincial and local,Economic affairs,4077.0
+2019,British Columbia,British Columbia — provincial and local,Environment,1659.0
+2019,British Columbia,British Columbia — provincial and local,Housing and community,1502.0
+2019,British Columbia,British Columbia — provincial and local,Health,24324.0
+2019,British Columbia,British Columbia — provincial and local,Recreation and culture,2605.0
+2019,British Columbia,British Columbia — provincial and local,Education,11571.0
+2019,British Columbia,British Columbia — provincial and local,Social protection,9021.0
+2020,British Columbia,British Columbia — provincial and local,General public services,7027.0
+2020,British Columbia,British Columbia — provincial and local,Defence,0.0
+2020,British Columbia,British Columbia — provincial and local,Public order and safety,4193.0
+2020,British Columbia,British Columbia — provincial and local,Economic affairs,5838.0
+2020,British Columbia,British Columbia — provincial and local,Environment,1769.0
+2020,British Columbia,British Columbia — provincial and local,Housing and community,1533.0
+2020,British Columbia,British Columbia — provincial and local,Health,26966.0
+2020,British Columbia,British Columbia — provincial and local,Recreation and culture,2599.0
+2020,British Columbia,British Columbia — provincial and local,Education,11908.0
+2020,British Columbia,British Columbia — provincial and local,Social protection,13401.0
+2021,British Columbia,British Columbia — provincial and local,General public services,7667.0
+2021,British Columbia,British Columbia — provincial and local,Defence,0.0
+2021,British Columbia,British Columbia — provincial and local,Public order and safety,4732.0
+2021,British Columbia,British Columbia — provincial and local,Economic affairs,8132.0
+2021,British Columbia,British Columbia — provincial and local,Environment,1949.0
+2021,British Columbia,British Columbia — provincial and local,Housing and community,1606.0
+2021,British Columbia,British Columbia — provincial and local,Health,29066.0
+2021,British Columbia,British Columbia — provincial and local,Recreation and culture,2549.0
+2021,British Columbia,British Columbia — provincial and local,Education,12460.0
+2021,British Columbia,British Columbia — provincial and local,Social protection,12387.0
+2022,British Columbia,British Columbia — provincial and local,General public services,7608.0
+2022,British Columbia,British Columbia — provincial and local,Defence,0.0
+2022,British Columbia,British Columbia — provincial and local,Public order and safety,5235.0
+2022,British Columbia,British Columbia — provincial and local,Economic affairs,8021.0
+2022,British Columbia,British Columbia — provincial and local,Environment,2621.0
+2022,British Columbia,British Columbia — provincial and local,Housing and community,1747.0
+2022,British Columbia,British Columbia — provincial and local,Health,30949.0
+2022,British Columbia,British Columbia — provincial and local,Recreation and culture,3157.0
+2022,British Columbia,British Columbia — provincial and local,Education,13399.0
+2022,British Columbia,British Columbia — provincial and local,Social protection,14762.0
+2023,British Columbia,British Columbia — provincial and local,General public services,8167.0
+2023,British Columbia,British Columbia — provincial and local,Defence,0.0
+2023,British Columbia,British Columbia — provincial and local,Public order and safety,5824.0
+2023,British Columbia,British Columbia — provincial and local,Economic affairs,7680.0
+2023,British Columbia,British Columbia — provincial and local,Environment,2922.0
+2023,British Columbia,British Columbia — provincial and local,Housing and community,1834.0
+2023,British Columbia,British Columbia — provincial and local,Health,36287.0
+2023,British Columbia,British Columbia — provincial and local,Recreation and culture,3342.0
+2023,British Columbia,British Columbia — provincial and local,Education,15071.0
+2023,British Columbia,British Columbia — provincial and local,Social protection,14915.0
+2024,British Columbia,British Columbia — provincial and local,General public services,9199.0
+2024,British Columbia,British Columbia — provincial and local,Defence,0.0
+2024,British Columbia,British Columbia — provincial and local,Public order and safety,5799.0
+2024,British Columbia,British Columbia — provincial and local,Economic affairs,8551.0
+2024,British Columbia,British Columbia — provincial and local,Environment,2761.0
+2024,British Columbia,British Columbia — provincial and local,Housing and community,1918.0
+2024,British Columbia,British Columbia — provincial and local,Health,39330.0
+2024,British Columbia,British Columbia — provincial and local,Recreation and culture,3360.0
+2024,British Columbia,British Columbia — provincial and local,Education,15703.0
+2024,British Columbia,British Columbia — provincial and local,Social protection,16005.0
+2008,Yukon,Yukon — provincial and local,General public services,107.0
+2008,Yukon,Yukon — provincial and local,Defence,0.0
+2008,Yukon,Yukon — provincial and local,Public order and safety,53.0
+2008,Yukon,Yukon — provincial and local,Economic affairs,187.0
+2008,Yukon,Yukon — provincial and local,Environment,37.0
+2008,Yukon,Yukon — provincial and local,Housing and community,27.0
+2008,Yukon,Yukon — provincial and local,Health,176.0
+2008,Yukon,Yukon — provincial and local,Recreation and culture,25.0
+2008,Yukon,Yukon — provincial and local,Education,137.0
+2008,Yukon,Yukon — provincial and local,Social protection,104.0
+2009,Yukon,Yukon — provincial and local,General public services,121.0
+2009,Yukon,Yukon — provincial and local,Defence,0.0
+2009,Yukon,Yukon — provincial and local,Public order and safety,63.0
+2009,Yukon,Yukon — provincial and local,Economic affairs,197.0
+2009,Yukon,Yukon — provincial and local,Environment,52.0
+2009,Yukon,Yukon — provincial and local,Housing and community,32.0
+2009,Yukon,Yukon — provincial and local,Health,192.0
+2009,Yukon,Yukon — provincial and local,Recreation and culture,30.0
+2009,Yukon,Yukon — provincial and local,Education,145.0
+2009,Yukon,Yukon — provincial and local,Social protection,102.0
+2010,Yukon,Yukon — provincial and local,General public services,138.0
+2010,Yukon,Yukon — provincial and local,Defence,0.0
+2010,Yukon,Yukon — provincial and local,Public order and safety,59.0
+2010,Yukon,Yukon — provincial and local,Economic affairs,241.0
+2010,Yukon,Yukon — provincial and local,Environment,69.0
+2010,Yukon,Yukon — provincial and local,Housing and community,37.0
+2010,Yukon,Yukon — provincial and local,Health,198.0
+2010,Yukon,Yukon — provincial and local,Recreation and culture,30.0
+2010,Yukon,Yukon — provincial and local,Education,157.0
+2010,Yukon,Yukon — provincial and local,Social protection,111.0
+2011,Yukon,Yukon — provincial and local,General public services,144.0
+2011,Yukon,Yukon — provincial and local,Defence,0.0
+2011,Yukon,Yukon — provincial and local,Public order and safety,64.0
+2011,Yukon,Yukon — provincial and local,Economic affairs,191.0
+2011,Yukon,Yukon — provincial and local,Environment,78.0
+2011,Yukon,Yukon — provincial and local,Housing and community,32.0
+2011,Yukon,Yukon — provincial and local,Health,210.0
+2011,Yukon,Yukon — provincial and local,Recreation and culture,37.0
+2011,Yukon,Yukon — provincial and local,Education,153.0
+2011,Yukon,Yukon — provincial and local,Social protection,110.0
+2012,Yukon,Yukon — provincial and local,General public services,141.0
+2012,Yukon,Yukon — provincial and local,Defence,0.0
+2012,Yukon,Yukon — provincial and local,Public order and safety,70.0
+2012,Yukon,Yukon — provincial and local,Economic affairs,198.0
+2012,Yukon,Yukon — provincial and local,Environment,108.0
+2012,Yukon,Yukon — provincial and local,Housing and community,23.0
+2012,Yukon,Yukon — provincial and local,Health,223.0
+2012,Yukon,Yukon — provincial and local,Recreation and culture,37.0
+2012,Yukon,Yukon — provincial and local,Education,156.0
+2012,Yukon,Yukon — provincial and local,Social protection,117.0
+2013,Yukon,Yukon — provincial and local,General public services,142.0
+2013,Yukon,Yukon — provincial and local,Defence,0.0
+2013,Yukon,Yukon — provincial and local,Public order and safety,74.0
+2013,Yukon,Yukon — provincial and local,Economic affairs,225.0
+2013,Yukon,Yukon — provincial and local,Environment,99.0
+2013,Yukon,Yukon — provincial and local,Housing and community,27.0
+2013,Yukon,Yukon — provincial and local,Health,241.0
+2013,Yukon,Yukon — provincial and local,Recreation and culture,38.0
+2013,Yukon,Yukon — provincial and local,Education,169.0
+2013,Yukon,Yukon — provincial and local,Social protection,124.0
+2014,Yukon,Yukon — provincial and local,General public services,156.0
+2014,Yukon,Yukon — provincial and local,Defence,0.0
+2014,Yukon,Yukon — provincial and local,Public order and safety,78.0
+2014,Yukon,Yukon — provincial and local,Economic affairs,228.0
+2014,Yukon,Yukon — provincial and local,Environment,104.0
+2014,Yukon,Yukon — provincial and local,Housing and community,38.0
+2014,Yukon,Yukon — provincial and local,Health,248.0
+2014,Yukon,Yukon — provincial and local,Recreation and culture,33.0
+2014,Yukon,Yukon — provincial and local,Education,172.0
+2014,Yukon,Yukon — provincial and local,Social protection,117.0
+2015,Yukon,Yukon — provincial and local,General public services,158.0
+2015,Yukon,Yukon — provincial and local,Defence,0.0
+2015,Yukon,Yukon — provincial and local,Public order and safety,79.0
+2015,Yukon,Yukon — provincial and local,Economic affairs,247.0
+2015,Yukon,Yukon — provincial and local,Environment,105.0
+2015,Yukon,Yukon — provincial and local,Housing and community,47.0
+2015,Yukon,Yukon — provincial and local,Health,280.0
+2015,Yukon,Yukon — provincial and local,Recreation and culture,37.0
+2015,Yukon,Yukon — provincial and local,Education,176.0
+2015,Yukon,Yukon — provincial and local,Social protection,124.0
+2016,Yukon,Yukon — provincial and local,General public services,157.0
+2016,Yukon,Yukon — provincial and local,Defence,0.0
+2016,Yukon,Yukon — provincial and local,Public order and safety,80.0
+2016,Yukon,Yukon — provincial and local,Economic affairs,243.0
+2016,Yukon,Yukon — provincial and local,Environment,85.0
+2016,Yukon,Yukon — provincial and local,Housing and community,59.0
+2016,Yukon,Yukon — provincial and local,Health,307.0
+2016,Yukon,Yukon — provincial and local,Recreation and culture,40.0
+2016,Yukon,Yukon — provincial and local,Education,203.0
+2016,Yukon,Yukon — provincial and local,Social protection,125.0
+2017,Yukon,Yukon — provincial and local,General public services,166.0
+2017,Yukon,Yukon — provincial and local,Defence,0.0
+2017,Yukon,Yukon — provincial and local,Public order and safety,83.0
+2017,Yukon,Yukon — provincial and local,Economic affairs,242.0
+2017,Yukon,Yukon — provincial and local,Environment,71.0
+2017,Yukon,Yukon — provincial and local,Housing and community,60.0
+2017,Yukon,Yukon — provincial and local,Health,310.0
+2017,Yukon,Yukon — provincial and local,Recreation and culture,38.0
+2017,Yukon,Yukon — provincial and local,Education,207.0
+2017,Yukon,Yukon — provincial and local,Social protection,135.0
+2018,Yukon,Yukon — provincial and local,General public services,168.0
+2018,Yukon,Yukon — provincial and local,Defence,0.0
+2018,Yukon,Yukon — provincial and local,Public order and safety,89.0
+2018,Yukon,Yukon — provincial and local,Economic affairs,291.0
+2018,Yukon,Yukon — provincial and local,Environment,67.0
+2018,Yukon,Yukon — provincial and local,Housing and community,102.0
+2018,Yukon,Yukon — provincial and local,Health,305.0
+2018,Yukon,Yukon — provincial and local,Recreation and culture,42.0
+2018,Yukon,Yukon — provincial and local,Education,204.0
+2018,Yukon,Yukon — provincial and local,Social protection,141.0
+2019,Yukon,Yukon — provincial and local,General public services,185.0
+2019,Yukon,Yukon — provincial and local,Defence,0.0
+2019,Yukon,Yukon — provincial and local,Public order and safety,127.0
+2019,Yukon,Yukon — provincial and local,Economic affairs,254.0
+2019,Yukon,Yukon — provincial and local,Environment,60.0
+2019,Yukon,Yukon — provincial and local,Housing and community,118.0
+2019,Yukon,Yukon — provincial and local,Health,360.0
+2019,Yukon,Yukon — provincial and local,Recreation and culture,42.0
+2019,Yukon,Yukon — provincial and local,Education,191.0
+2019,Yukon,Yukon — provincial and local,Social protection,135.0
+2020,Yukon,Yukon — provincial and local,General public services,189.0
+2020,Yukon,Yukon — provincial and local,Defence,0.0
+2020,Yukon,Yukon — provincial and local,Public order and safety,108.0
+2020,Yukon,Yukon — provincial and local,Economic affairs,326.0
+2020,Yukon,Yukon — provincial and local,Environment,78.0
+2020,Yukon,Yukon — provincial and local,Housing and community,83.0
+2020,Yukon,Yukon — provincial and local,Health,401.0
+2020,Yukon,Yukon — provincial and local,Recreation and culture,39.0
+2020,Yukon,Yukon — provincial and local,Education,186.0
+2020,Yukon,Yukon — provincial and local,Social protection,152.0
+2021,Yukon,Yukon — provincial and local,General public services,191.0
+2021,Yukon,Yukon — provincial and local,Defence,0.0
+2021,Yukon,Yukon — provincial and local,Public order and safety,123.0
+2021,Yukon,Yukon — provincial and local,Economic affairs,367.0
+2021,Yukon,Yukon — provincial and local,Environment,150.0
+2021,Yukon,Yukon — provincial and local,Housing and community,51.0
+2021,Yukon,Yukon — provincial and local,Health,421.0
+2021,Yukon,Yukon — provincial and local,Recreation and culture,37.0
+2021,Yukon,Yukon — provincial and local,Education,207.0
+2021,Yukon,Yukon — provincial and local,Social protection,159.0
+2022,Yukon,Yukon — provincial and local,General public services,186.0
+2022,Yukon,Yukon — provincial and local,Defence,0.0
+2022,Yukon,Yukon — provincial and local,Public order and safety,148.0
+2022,Yukon,Yukon — provincial and local,Economic affairs,354.0
+2022,Yukon,Yukon — provincial and local,Environment,114.0
+2022,Yukon,Yukon — provincial and local,Housing and community,48.0
+2022,Yukon,Yukon — provincial and local,Health,448.0
+2022,Yukon,Yukon — provincial and local,Recreation and culture,41.0
+2022,Yukon,Yukon — provincial and local,Education,219.0
+2022,Yukon,Yukon — provincial and local,Social protection,141.0
+2023,Yukon,Yukon — provincial and local,General public services,197.0
+2023,Yukon,Yukon — provincial and local,Defence,0.0
+2023,Yukon,Yukon — provincial and local,Public order and safety,161.0
+2023,Yukon,Yukon — provincial and local,Economic affairs,328.0
+2023,Yukon,Yukon — provincial and local,Environment,125.0
+2023,Yukon,Yukon — provincial and local,Housing and community,75.0
+2023,Yukon,Yukon — provincial and local,Health,484.0
+2023,Yukon,Yukon — provincial and local,Recreation and culture,41.0
+2023,Yukon,Yukon — provincial and local,Education,229.0
+2023,Yukon,Yukon — provincial and local,Social protection,168.0
+2024,Yukon,Yukon — provincial and local,General public services,201.0
+2024,Yukon,Yukon — provincial and local,Defence,0.0
+2024,Yukon,Yukon — provincial and local,Public order and safety,163.0
+2024,Yukon,Yukon — provincial and local,Economic affairs,333.0
+2024,Yukon,Yukon — provincial and local,Environment,127.0
+2024,Yukon,Yukon — provincial and local,Housing and community,77.0
+2024,Yukon,Yukon — provincial and local,Health,493.0
+2024,Yukon,Yukon — provincial and local,Recreation and culture,41.0
+2024,Yukon,Yukon — provincial and local,Education,233.0
+2024,Yukon,Yukon — provincial and local,Social protection,183.0
+2008,Northwest Territories,Northwest Territories — provincial and local,General public services,198.0
+2008,Northwest Territories,Northwest Territories — provincial and local,Defence,0.0
+2008,Northwest Territories,Northwest Territories — provincial and local,Public order and safety,99.0
+2008,Northwest Territories,Northwest Territories — provincial and local,Economic affairs,179.0
+2008,Northwest Territories,Northwest Territories — provincial and local,Environment,45.0
+2008,Northwest Territories,Northwest Territories — provincial and local,Housing and community,43.0
+2008,Northwest Territories,Northwest Territories — provincial and local,Health,362.0
+2008,Northwest Territories,Northwest Territories — provincial and local,Recreation and culture,39.0
+2008,Northwest Territories,Northwest Territories — provincial and local,Education,245.0
+2008,Northwest Territories,Northwest Territories — provincial and local,Social protection,224.0
+2009,Northwest Territories,Northwest Territories — provincial and local,General public services,196.0
+2009,Northwest Territories,Northwest Territories — provincial and local,Defence,0.0
+2009,Northwest Territories,Northwest Territories — provincial and local,Public order and safety,107.0
+2009,Northwest Territories,Northwest Territories — provincial and local,Economic affairs,176.0
+2009,Northwest Territories,Northwest Territories — provincial and local,Environment,44.0
+2009,Northwest Territories,Northwest Territories — provincial and local,Housing and community,43.0
+2009,Northwest Territories,Northwest Territories — provincial and local,Health,384.0
+2009,Northwest Territories,Northwest Territories — provincial and local,Recreation and culture,43.0
+2009,Northwest Territories,Northwest Territories — provincial and local,Education,249.0
+2009,Northwest Territories,Northwest Territories — provincial and local,Social protection,244.0
+2010,Northwest Territories,Northwest Territories — provincial and local,General public services,228.0
+2010,Northwest Territories,Northwest Territories — provincial and local,Defence,0.0
+2010,Northwest Territories,Northwest Territories — provincial and local,Public order and safety,110.0
+2010,Northwest Territories,Northwest Territories — provincial and local,Economic affairs,216.0
+2010,Northwest Territories,Northwest Territories — provincial and local,Environment,49.0
+2010,Northwest Territories,Northwest Territories — provincial and local,Housing and community,48.0
+2010,Northwest Territories,Northwest Territories — provincial and local,Health,394.0
+2010,Northwest Territories,Northwest Territories — provincial and local,Recreation and culture,42.0
+2010,Northwest Territories,Northwest Territories — provincial and local,Education,240.0
+2010,Northwest Territories,Northwest Territories — provincial and local,Social protection,221.0
+2011,Northwest Territories,Northwest Territories — provincial and local,General public services,245.0
+2011,Northwest Territories,Northwest Territories — provincial and local,Defence,0.0
+2011,Northwest Territories,Northwest Territories — provincial and local,Public order and safety,112.0
+2011,Northwest Territories,Northwest Territories — provincial and local,Economic affairs,224.0
+2011,Northwest Territories,Northwest Territories — provincial and local,Environment,54.0
+2011,Northwest Territories,Northwest Territories — provincial and local,Housing and community,47.0
+2011,Northwest Territories,Northwest Territories — provincial and local,Health,410.0
+2011,Northwest Territories,Northwest Territories — provincial and local,Recreation and culture,47.0
+2011,Northwest Territories,Northwest Territories — provincial and local,Education,247.0
+2011,Northwest Territories,Northwest Territories — provincial and local,Social protection,236.0
+2012,Northwest Territories,Northwest Territories — provincial and local,General public services,243.0
+2012,Northwest Territories,Northwest Territories — provincial and local,Defence,0.0
+2012,Northwest Territories,Northwest Territories — provincial and local,Public order and safety,117.0
+2012,Northwest Territories,Northwest Territories — provincial and local,Economic affairs,240.0
+2012,Northwest Territories,Northwest Territories — provincial and local,Environment,50.0
+2012,Northwest Territories,Northwest Territories — provincial and local,Housing and community,47.0
+2012,Northwest Territories,Northwest Territories — provincial and local,Health,428.0
+2012,Northwest Territories,Northwest Territories — provincial and local,Recreation and culture,46.0
+2012,Northwest Territories,Northwest Territories — provincial and local,Education,249.0
+2012,Northwest Territories,Northwest Territories — provincial and local,Social protection,232.0
+2013,Northwest Territories,Northwest Territories — provincial and local,General public services,284.0
+2013,Northwest Territories,Northwest Territories — provincial and local,Defence,0.0
+2013,Northwest Territories,Northwest Territories — provincial and local,Public order and safety,121.0
+2013,Northwest Territories,Northwest Territories — provincial and local,Economic affairs,238.0
+2013,Northwest Territories,Northwest Territories — provincial and local,Environment,53.0
+2013,Northwest Territories,Northwest Territories — provincial and local,Housing and community,46.0
+2013,Northwest Territories,Northwest Territories — provincial and local,Health,491.0
+2013,Northwest Territories,Northwest Territories — provincial and local,Recreation and culture,50.0
+2013,Northwest Territories,Northwest Territories — provincial and local,Education,248.0
+2013,Northwest Territories,Northwest Territories — provincial and local,Social protection,227.0
+2014,Northwest Territories,Northwest Territories — provincial and local,General public services,310.0
+2014,Northwest Territories,Northwest Territories — provincial and local,Defence,0.0
+2014,Northwest Territories,Northwest Territories — provincial and local,Public order and safety,127.0
+2014,Northwest Territories,Northwest Territories — provincial and local,Economic affairs,325.0
+2014,Northwest Territories,Northwest Territories — provincial and local,Environment,88.0
+2014,Northwest Territories,Northwest Territories — provincial and local,Housing and community,66.0
+2014,Northwest Territories,Northwest Territories — provincial and local,Health,500.0
+2014,Northwest Territories,Northwest Territories — provincial and local,Recreation and culture,50.0
+2014,Northwest Territories,Northwest Territories — provincial and local,Education,255.0
+2014,Northwest Territories,Northwest Territories — provincial and local,Social protection,258.0
+2015,Northwest Territories,Northwest Territories — provincial and local,General public services,298.0
+2015,Northwest Territories,Northwest Territories — provincial and local,Defence,0.0
+2015,Northwest Territories,Northwest Territories — provincial and local,Public order and safety,132.0
+2015,Northwest Territories,Northwest Territories — provincial and local,Economic affairs,304.0
+2015,Northwest Territories,Northwest Territories — provincial and local,Environment,75.0
+2015,Northwest Territories,Northwest Territories — provincial and local,Housing and community,87.0
+2015,Northwest Territories,Northwest Territories — provincial and local,Health,534.0
+2015,Northwest Territories,Northwest Territories — provincial and local,Recreation and culture,55.0
+2015,Northwest Territories,Northwest Territories — provincial and local,Education,251.0
+2015,Northwest Territories,Northwest Territories — provincial and local,Social protection,253.0
+2016,Northwest Territories,Northwest Territories — provincial and local,General public services,316.0
+2016,Northwest Territories,Northwest Territories — provincial and local,Defence,0.0
+2016,Northwest Territories,Northwest Territories — provincial and local,Public order and safety,131.0
+2016,Northwest Territories,Northwest Territories — provincial and local,Economic affairs,237.0
+2016,Northwest Territories,Northwest Territories — provincial and local,Environment,77.0
+2016,Northwest Territories,Northwest Territories — provincial and local,Housing and community,117.0
+2016,Northwest Territories,Northwest Territories — provincial and local,Health,582.0
+2016,Northwest Territories,Northwest Territories — provincial and local,Recreation and culture,51.0
+2016,Northwest Territories,Northwest Territories — provincial and local,Education,250.0
+2016,Northwest Territories,Northwest Territories — provincial and local,Social protection,271.0
+2017,Northwest Territories,Northwest Territories — provincial and local,General public services,262.0
+2017,Northwest Territories,Northwest Territories — provincial and local,Defence,0.0
+2017,Northwest Territories,Northwest Territories — provincial and local,Public order and safety,133.0
+2017,Northwest Territories,Northwest Territories — provincial and local,Economic affairs,299.0
+2017,Northwest Territories,Northwest Territories — provincial and local,Environment,61.0
+2017,Northwest Territories,Northwest Territories — provincial and local,Housing and community,87.0
+2017,Northwest Territories,Northwest Territories — provincial and local,Health,593.0
+2017,Northwest Territories,Northwest Territories — provincial and local,Recreation and culture,53.0
+2017,Northwest Territories,Northwest Territories — provincial and local,Education,307.0
+2017,Northwest Territories,Northwest Territories — provincial and local,Social protection,272.0
+2018,Northwest Territories,Northwest Territories — provincial and local,General public services,319.0
+2018,Northwest Territories,Northwest Territories — provincial and local,Defence,0.0
+2018,Northwest Territories,Northwest Territories — provincial and local,Public order and safety,102.0
+2018,Northwest Territories,Northwest Territories — provincial and local,Economic affairs,310.0
+2018,Northwest Territories,Northwest Territories — provincial and local,Environment,68.0
+2018,Northwest Territories,Northwest Territories — provincial and local,Housing and community,85.0
+2018,Northwest Territories,Northwest Territories — provincial and local,Health,601.0
+2018,Northwest Territories,Northwest Territories — provincial and local,Recreation and culture,58.0
+2018,Northwest Territories,Northwest Territories — provincial and local,Education,308.0
+2018,Northwest Territories,Northwest Territories — provincial and local,Social protection,290.0
+2019,Northwest Territories,Northwest Territories — provincial and local,General public services,352.0
+2019,Northwest Territories,Northwest Territories — provincial and local,Defence,0.0
+2019,Northwest Territories,Northwest Territories — provincial and local,Public order and safety,119.0
+2019,Northwest Territories,Northwest Territories — provincial and local,Economic affairs,331.0
+2019,Northwest Territories,Northwest Territories — provincial and local,Environment,77.0
+2019,Northwest Territories,Northwest Territories — provincial and local,Housing and community,91.0
+2019,Northwest Territories,Northwest Territories — provincial and local,Health,658.0
+2019,Northwest Territories,Northwest Territories — provincial and local,Recreation and culture,63.0
+2019,Northwest Territories,Northwest Territories — provincial and local,Education,289.0
+2019,Northwest Territories,Northwest Territories — provincial and local,Social protection,316.0
+2020,Northwest Territories,Northwest Territories — provincial and local,General public services,364.0
+2020,Northwest Territories,Northwest Territories — provincial and local,Defence,0.0
+2020,Northwest Territories,Northwest Territories — provincial and local,Public order and safety,133.0
+2020,Northwest Territories,Northwest Territories — provincial and local,Economic affairs,323.0
+2020,Northwest Territories,Northwest Territories — provincial and local,Environment,77.0
+2020,Northwest Territories,Northwest Territories — provincial and local,Housing and community,92.0
+2020,Northwest Territories,Northwest Territories — provincial and local,Health,703.0
+2020,Northwest Territories,Northwest Territories — provincial and local,Recreation and culture,59.0
+2020,Northwest Territories,Northwest Territories — provincial and local,Education,300.0
+2020,Northwest Territories,Northwest Territories — provincial and local,Social protection,293.0
+2021,Northwest Territories,Northwest Territories — provincial and local,General public services,378.0
+2021,Northwest Territories,Northwest Territories — provincial and local,Defence,0.0
+2021,Northwest Territories,Northwest Territories — provincial and local,Public order and safety,155.0
+2021,Northwest Territories,Northwest Territories — provincial and local,Economic affairs,330.0
+2021,Northwest Territories,Northwest Territories — provincial and local,Environment,95.0
+2021,Northwest Territories,Northwest Territories — provincial and local,Housing and community,88.0
+2021,Northwest Territories,Northwest Territories — provincial and local,Health,730.0
+2021,Northwest Territories,Northwest Territories — provincial and local,Recreation and culture,61.0
+2021,Northwest Territories,Northwest Territories — provincial and local,Education,319.0
+2021,Northwest Territories,Northwest Territories — provincial and local,Social protection,361.0
+2022,Northwest Territories,Northwest Territories — provincial and local,General public services,418.0
+2022,Northwest Territories,Northwest Territories — provincial and local,Defence,0.0
+2022,Northwest Territories,Northwest Territories — provincial and local,Public order and safety,159.0
+2022,Northwest Territories,Northwest Territories — provincial and local,Economic affairs,378.0
+2022,Northwest Territories,Northwest Territories — provincial and local,Environment,71.0
+2022,Northwest Territories,Northwest Territories — provincial and local,Housing and community,97.0
+2022,Northwest Territories,Northwest Territories — provincial and local,Health,755.0
+2022,Northwest Territories,Northwest Territories — provincial and local,Recreation and culture,70.0
+2022,Northwest Territories,Northwest Territories — provincial and local,Education,322.0
+2022,Northwest Territories,Northwest Territories — provincial and local,Social protection,436.0
+2023,Northwest Territories,Northwest Territories — provincial and local,General public services,397.0
+2023,Northwest Territories,Northwest Territories — provincial and local,Defence,0.0
+2023,Northwest Territories,Northwest Territories — provincial and local,Public order and safety,162.0
+2023,Northwest Territories,Northwest Territories — provincial and local,Economic affairs,531.0
+2023,Northwest Territories,Northwest Territories — provincial and local,Environment,137.0
+2023,Northwest Territories,Northwest Territories — provincial and local,Housing and community,88.0
+2023,Northwest Territories,Northwest Territories — provincial and local,Health,830.0
+2023,Northwest Territories,Northwest Territories — provincial and local,Recreation and culture,70.0
+2023,Northwest Territories,Northwest Territories — provincial and local,Education,330.0
+2023,Northwest Territories,Northwest Territories — provincial and local,Social protection,495.0
+2024,Northwest Territories,Northwest Territories — provincial and local,General public services,401.0
+2024,Northwest Territories,Northwest Territories — provincial and local,Defence,0.0
+2024,Northwest Territories,Northwest Territories — provincial and local,Public order and safety,174.0
+2024,Northwest Territories,Northwest Territories — provincial and local,Economic affairs,496.0
+2024,Northwest Territories,Northwest Territories — provincial and local,Environment,126.0
+2024,Northwest Territories,Northwest Territories — provincial and local,Housing and community,88.0
+2024,Northwest Territories,Northwest Territories — provincial and local,Health,866.0
+2024,Northwest Territories,Northwest Territories — provincial and local,Recreation and culture,68.0
+2024,Northwest Territories,Northwest Territories — provincial and local,Education,294.0
+2024,Northwest Territories,Northwest Territories — provincial and local,Social protection,370.0
+2008,Nunavut,Nunavut — provincial and local,General public services,186.0
+2008,Nunavut,Nunavut — provincial and local,Defence,0.0
+2008,Nunavut,Nunavut — provincial and local,Public order and safety,76.0
+2008,Nunavut,Nunavut — provincial and local,Economic affairs,378.0
+2008,Nunavut,Nunavut — provincial and local,Environment,14.0
+2008,Nunavut,Nunavut — provincial and local,Housing and community,80.0
+2008,Nunavut,Nunavut — provincial and local,Health,288.0
+2008,Nunavut,Nunavut — provincial and local,Recreation and culture,40.0
+2008,Nunavut,Nunavut — provincial and local,Education,191.0
+2008,Nunavut,Nunavut — provincial and local,Social protection,198.0
+2009,Nunavut,Nunavut — provincial and local,General public services,237.0
+2009,Nunavut,Nunavut — provincial and local,Defence,0.0
+2009,Nunavut,Nunavut — provincial and local,Public order and safety,82.0
+2009,Nunavut,Nunavut — provincial and local,Economic affairs,310.0
+2009,Nunavut,Nunavut — provincial and local,Environment,17.0
+2009,Nunavut,Nunavut — provincial and local,Housing and community,90.0
+2009,Nunavut,Nunavut — provincial and local,Health,286.0
+2009,Nunavut,Nunavut — provincial and local,Recreation and culture,37.0
+2009,Nunavut,Nunavut — provincial and local,Education,217.0
+2009,Nunavut,Nunavut — provincial and local,Social protection,211.0
+2010,Nunavut,Nunavut — provincial and local,General public services,198.0
+2010,Nunavut,Nunavut — provincial and local,Defence,0.0
+2010,Nunavut,Nunavut — provincial and local,Public order and safety,88.0
+2010,Nunavut,Nunavut — provincial and local,Economic affairs,354.0
+2010,Nunavut,Nunavut — provincial and local,Environment,16.0
+2010,Nunavut,Nunavut — provincial and local,Housing and community,89.0
+2010,Nunavut,Nunavut — provincial and local,Health,338.0
+2010,Nunavut,Nunavut — provincial and local,Recreation and culture,44.0
+2010,Nunavut,Nunavut — provincial and local,Education,235.0
+2010,Nunavut,Nunavut — provincial and local,Social protection,212.0
+2011,Nunavut,Nunavut — provincial and local,General public services,213.0
+2011,Nunavut,Nunavut — provincial and local,Defence,0.0
+2011,Nunavut,Nunavut — provincial and local,Public order and safety,93.0
+2011,Nunavut,Nunavut — provincial and local,Economic affairs,391.0
+2011,Nunavut,Nunavut — provincial and local,Environment,15.0
+2011,Nunavut,Nunavut — provincial and local,Housing and community,97.0
+2011,Nunavut,Nunavut — provincial and local,Health,349.0
+2011,Nunavut,Nunavut — provincial and local,Recreation and culture,50.0
+2011,Nunavut,Nunavut — provincial and local,Education,230.0
+2011,Nunavut,Nunavut — provincial and local,Social protection,216.0
+2012,Nunavut,Nunavut — provincial and local,General public services,204.0
+2012,Nunavut,Nunavut — provincial and local,Defence,0.0
+2012,Nunavut,Nunavut — provincial and local,Public order and safety,102.0
+2012,Nunavut,Nunavut — provincial and local,Economic affairs,371.0
+2012,Nunavut,Nunavut — provincial and local,Environment,15.0
+2012,Nunavut,Nunavut — provincial and local,Housing and community,99.0
+2012,Nunavut,Nunavut — provincial and local,Health,372.0
+2012,Nunavut,Nunavut — provincial and local,Recreation and culture,50.0
+2012,Nunavut,Nunavut — provincial and local,Education,240.0
+2012,Nunavut,Nunavut — provincial and local,Social protection,221.0
+2013,Nunavut,Nunavut — provincial and local,General public services,212.0
+2013,Nunavut,Nunavut — provincial and local,Defence,0.0
+2013,Nunavut,Nunavut — provincial and local,Public order and safety,113.0
+2013,Nunavut,Nunavut — provincial and local,Economic affairs,426.0
+2013,Nunavut,Nunavut — provincial and local,Environment,17.0
+2013,Nunavut,Nunavut — provincial and local,Housing and community,108.0
+2013,Nunavut,Nunavut — provincial and local,Health,397.0
+2013,Nunavut,Nunavut — provincial and local,Recreation and culture,54.0
+2013,Nunavut,Nunavut — provincial and local,Education,248.0
+2013,Nunavut,Nunavut — provincial and local,Social protection,233.0
+2014,Nunavut,Nunavut — provincial and local,General public services,215.0
+2014,Nunavut,Nunavut — provincial and local,Defence,0.0
+2014,Nunavut,Nunavut — provincial and local,Public order and safety,121.0
+2014,Nunavut,Nunavut — provincial and local,Economic affairs,415.0
+2014,Nunavut,Nunavut — provincial and local,Environment,21.0
+2014,Nunavut,Nunavut — provincial and local,Housing and community,116.0
+2014,Nunavut,Nunavut — provincial and local,Health,411.0
+2014,Nunavut,Nunavut — provincial and local,Recreation and culture,55.0
+2014,Nunavut,Nunavut — provincial and local,Education,256.0
+2014,Nunavut,Nunavut — provincial and local,Social protection,246.0
+2015,Nunavut,Nunavut — provincial and local,General public services,236.0
+2015,Nunavut,Nunavut — provincial and local,Defence,0.0
+2015,Nunavut,Nunavut — provincial and local,Public order and safety,110.0
+2015,Nunavut,Nunavut — provincial and local,Economic affairs,470.0
+2015,Nunavut,Nunavut — provincial and local,Environment,19.0
+2015,Nunavut,Nunavut — provincial and local,Housing and community,127.0
+2015,Nunavut,Nunavut — provincial and local,Health,439.0
+2015,Nunavut,Nunavut — provincial and local,Recreation and culture,57.0
+2015,Nunavut,Nunavut — provincial and local,Education,267.0
+2015,Nunavut,Nunavut — provincial and local,Social protection,251.0
+2016,Nunavut,Nunavut — provincial and local,General public services,310.0
+2016,Nunavut,Nunavut — provincial and local,Defence,0.0
+2016,Nunavut,Nunavut — provincial and local,Public order and safety,116.0
+2016,Nunavut,Nunavut — provincial and local,Economic affairs,359.0
+2016,Nunavut,Nunavut — provincial and local,Environment,19.0
+2016,Nunavut,Nunavut — provincial and local,Housing and community,128.0
+2016,Nunavut,Nunavut — provincial and local,Health,472.0
+2016,Nunavut,Nunavut — provincial and local,Recreation and culture,56.0
+2016,Nunavut,Nunavut — provincial and local,Education,271.0
+2016,Nunavut,Nunavut — provincial and local,Social protection,267.0
+2017,Nunavut,Nunavut — provincial and local,General public services,318.0
+2017,Nunavut,Nunavut — provincial and local,Defence,0.0
+2017,Nunavut,Nunavut — provincial and local,Public order and safety,119.0
+2017,Nunavut,Nunavut — provincial and local,Economic affairs,374.0
+2017,Nunavut,Nunavut — provincial and local,Environment,19.0
+2017,Nunavut,Nunavut — provincial and local,Housing and community,129.0
+2017,Nunavut,Nunavut — provincial and local,Health,537.0
+2017,Nunavut,Nunavut — provincial and local,Recreation and culture,70.0
+2017,Nunavut,Nunavut — provincial and local,Education,279.0
+2017,Nunavut,Nunavut — provincial and local,Social protection,270.0
+2018,Nunavut,Nunavut — provincial and local,General public services,360.0
+2018,Nunavut,Nunavut — provincial and local,Defence,0.0
+2018,Nunavut,Nunavut — provincial and local,Public order and safety,136.0
+2018,Nunavut,Nunavut — provincial and local,Economic affairs,384.0
+2018,Nunavut,Nunavut — provincial and local,Environment,20.0
+2018,Nunavut,Nunavut — provincial and local,Housing and community,130.0
+2018,Nunavut,Nunavut — provincial and local,Health,576.0
+2018,Nunavut,Nunavut — provincial and local,Recreation and culture,71.0
+2018,Nunavut,Nunavut — provincial and local,Education,296.0
+2018,Nunavut,Nunavut — provincial and local,Social protection,297.0
+2019,Nunavut,Nunavut — provincial and local,General public services,364.0
+2019,Nunavut,Nunavut — provincial and local,Defence,0.0
+2019,Nunavut,Nunavut — provincial and local,Public order and safety,142.0
+2019,Nunavut,Nunavut — provincial and local,Economic affairs,402.0
+2019,Nunavut,Nunavut — provincial and local,Environment,20.0
+2019,Nunavut,Nunavut — provincial and local,Housing and community,142.0
+2019,Nunavut,Nunavut — provincial and local,Health,608.0
+2019,Nunavut,Nunavut — provincial and local,Recreation and culture,71.0
+2019,Nunavut,Nunavut — provincial and local,Education,289.0
+2019,Nunavut,Nunavut — provincial and local,Social protection,312.0
+2020,Nunavut,Nunavut — provincial and local,General public services,385.0
+2020,Nunavut,Nunavut — provincial and local,Defence,0.0
+2020,Nunavut,Nunavut — provincial and local,Public order and safety,133.0
+2020,Nunavut,Nunavut — provincial and local,Economic affairs,384.0
+2020,Nunavut,Nunavut — provincial and local,Environment,20.0
+2020,Nunavut,Nunavut — provincial and local,Housing and community,177.0
+2020,Nunavut,Nunavut — provincial and local,Health,666.0
+2020,Nunavut,Nunavut — provincial and local,Recreation and culture,63.0
+2020,Nunavut,Nunavut — provincial and local,Education,297.0
+2020,Nunavut,Nunavut — provincial and local,Social protection,314.0
+2021,Nunavut,Nunavut — provincial and local,General public services,432.0
+2021,Nunavut,Nunavut — provincial and local,Defence,0.0
+2021,Nunavut,Nunavut — provincial and local,Public order and safety,144.0
+2021,Nunavut,Nunavut — provincial and local,Economic affairs,381.0
+2021,Nunavut,Nunavut — provincial and local,Environment,20.0
+2021,Nunavut,Nunavut — provincial and local,Housing and community,77.0
+2021,Nunavut,Nunavut — provincial and local,Health,708.0
+2021,Nunavut,Nunavut — provincial and local,Recreation and culture,61.0
+2021,Nunavut,Nunavut — provincial and local,Education,297.0
+2021,Nunavut,Nunavut — provincial and local,Social protection,383.0
+2022,Nunavut,Nunavut — provincial and local,General public services,378.0
+2022,Nunavut,Nunavut — provincial and local,Defence,0.0
+2022,Nunavut,Nunavut — provincial and local,Public order and safety,145.0
+2022,Nunavut,Nunavut — provincial and local,Economic affairs,491.0
+2022,Nunavut,Nunavut — provincial and local,Environment,23.0
+2022,Nunavut,Nunavut — provincial and local,Housing and community,97.0
+2022,Nunavut,Nunavut — provincial and local,Health,748.0
+2022,Nunavut,Nunavut — provincial and local,Recreation and culture,69.0
+2022,Nunavut,Nunavut — provincial and local,Education,312.0
+2022,Nunavut,Nunavut — provincial and local,Social protection,413.0
+2023,Nunavut,Nunavut — provincial and local,General public services,448.0
+2023,Nunavut,Nunavut — provincial and local,Defence,0.0
+2023,Nunavut,Nunavut — provincial and local,Public order and safety,166.0
+2023,Nunavut,Nunavut — provincial and local,Economic affairs,533.0
+2023,Nunavut,Nunavut — provincial and local,Environment,21.0
+2023,Nunavut,Nunavut — provincial and local,Housing and community,105.0
+2023,Nunavut,Nunavut — provincial and local,Health,877.0
+2023,Nunavut,Nunavut — provincial and local,Recreation and culture,76.0
+2023,Nunavut,Nunavut — provincial and local,Education,324.0
+2023,Nunavut,Nunavut — provincial and local,Social protection,334.0
+2024,Nunavut,Nunavut — provincial and local,General public services,486.0
+2024,Nunavut,Nunavut — provincial and local,Defence,0.0
+2024,Nunavut,Nunavut — provincial and local,Public order and safety,169.0
+2024,Nunavut,Nunavut — provincial and local,Economic affairs,574.0
+2024,Nunavut,Nunavut — provincial and local,Environment,21.0
+2024,Nunavut,Nunavut — provincial and local,Housing and community,111.0
+2024,Nunavut,Nunavut — provincial and local,Health,940.0
+2024,Nunavut,Nunavut — provincial and local,Recreation and culture,75.0
+2024,Nunavut,Nunavut — provincial and local,Education,351.0
+2024,Nunavut,Nunavut — provincial and local,Social protection,353.0
